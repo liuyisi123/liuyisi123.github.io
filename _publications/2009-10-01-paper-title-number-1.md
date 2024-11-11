@@ -5,11 +5,11 @@ permalink: /publication/2024-10-23_articles
 excerpt: "In this paper  we propose a parallel cross-hybrid architecture that integrates a convolutional neural network backbone and a Mix-Transformer backbone. This model, grounded in multi-view physiological signals and personalized fine-tuning strategies, aims to estimate BP, facilitating the capture of physiological information across diverse receptive fields and enhancing network expressive capabilitie.<br/><br/><img src='/images/publications_figs/m6ACisTransDissection.png'><br/>"
 date: 2024-10-23
 venue: 'Applied Soft Computing'
-paperurl: '[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03182-1 ](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub)' 
+paperurl: '[https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub]' 
 citation: 'Liu, Jian, Shuaicong Hu, Yanan Wang, Wei Xiang, Qihan Hu, and Cuiwei Yang. "Personalized Blood Pressure Estimation using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning." Applied Soft Computing (2024): 112390..'
 ---
 
-![](/images/publications_figs/ASOC.png)
+![](/images/ASOC.jpg)
 
 Abstract
 ==========
