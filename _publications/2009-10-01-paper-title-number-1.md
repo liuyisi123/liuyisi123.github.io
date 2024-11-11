@@ -1,14 +1,35 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Personalized Blood Pressure Estimation using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning"
+collection: articles
+permalink: /publication/2024-10-23_articles
+excerpt: "In this paper  we propose a parallel cross-hybrid architecture that integrates a convolutional neural network backbone and a Mix-Transformer backbone. This model, grounded in multi-view physiological signals and personalized fine-tuning strategies, aims to estimate BP, facilitating the capture of physiological information across diverse receptive fields and enhancing network expressive capabilitie.<br/><br/><img src='/images/publications_figs/m6ACisTransDissection.png'><br/>"
+date: 2024-10-23
+venue: 'Applied Soft Computing'
+paperurl: '[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03182-1 ](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub)' 
+citation: 'Liu, Jian, Shuaicong Hu, Yanan Wang, Wei Xiang, Qihan Hu, and Cuiwei Yang. "Personalized Blood Pressure Estimation using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning." Applied Soft Computing (2024): 112390..'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+![](/images/publications_figs/ASOC.png)
+
+Abstract
+==========
+**Background**
+Continuous blood pressure (BP) monitoring is crucial for individual health management, yet the significant inter-individual variations among patients pose challenges to achieving precision medicine.
+
+**Methods**
+In response to this issue, we propose a parallel cross-hybrid architecture that integrates a convolutional neural network backbone and a Mix-Transformer backbone. This model, grounded in multi-view physiological signals and personalized fine-tuning strategies, aims to estimate BP, facilitating the capture of physiological information across diverse receptive fields and enhancing network expressive capabilities.
+
+**Results**
+Our proposed architecture exhibits superior performance in estimating systolic blood pressure and diastolic blood pressure, with average absolute errors of 3.94 mmHg and 2.24 mmHg, respectively. These results surpass existing baseline models and align with the standards set by the British Hypertension Society, the Association for the Advancement of Medical Instrumentation, and the Institute of Electrical and Electronics Engineers for BP measurement. Additionally, this study explores a personalized model fine-tuning strategy by adjusting specific layers and incorporating individual information, presenting an optimal solution. The model's generalization ability is validated through transfer learning across databases (public and self-made). To enhance the proposed architecture's usability in wearable devices, this study employs a knowledge distillation strategy for model lightweighting, with preliminary application in our designed real-time BP estimation system.
+
+**Conclusions**
+This study provides an efficient and accurate solution for personalized BP estimation, exhibiting broad potential applications.
+
+<dl>
+	<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+	<a href="https://plu.mx/plum/a/?doi=10.1186/s13059-024-03182-1" class="plumx-details" data-site="plum" data-hide-when-empty="true">Dissecting the sequence and structural determinants guiding m6A deposition and evolution via inter- and intra-species hybrids</a>
+</dl>
+
+<dl>
+	<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="159566645"></div>
+</dl>
