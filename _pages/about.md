@@ -50,13 +50,7 @@ I am/was a teaching assistant for the following courses:
 
 - [01/2023] Our paper [Exploring the Applicability of Transfer Learning and Feature Engineering in Epilepsy Prediction Using Hybrid Transformer Model](https://ieeexplore.ieee.org/document/10046136) has been accepted by IEEE transactions on neural systems and rehabilitation engineering.
 
-- [10/2022] Our paper [Sources of automatic office blood pressure measurement error: a systematic review](https://iopscience.iop.org/article/10.1088/1361-6579/ac890e
-        
-        
-        
-        
-        
-         ) has been accepted by Physiological Measurement.
+- [10/2022] Our paper [Sources of automatic office blood pressure measurement error: a systematic review](https://iopscience.iop.org/article/10.1088/1361-6579/ac890e) has been accepted by Physiological Measurement.
 
 - [09/2021] I attended Computing in Cardiology 2021 (CinC) in the Czech Republic and gave an oral presentation in the session on Blood Pressure Regulation and Variability.  
 
