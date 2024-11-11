@@ -8,51 +8,58 @@ redirect_from:
   - /main.html
 ---
 
-Hi there! My name is Xing ([pronunciation](https://translate.google.co.uk/?sl=zh-CN&tl=en&text=%E8%A1%8C&op=translate); similar to "H'sing"). I am a PhD student in Statistics at Imperial College London. I joined the [EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford](https://statml.io/) in 2020, where I have been advised by Professor [Axel Gandy](https://wwwf.imperial.ac.uk/~agandy/) and Dr [Andrew Duncan](http://wwwf.imperial.ac.uk/~aduncan/). I am also a visiting student in the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group at UCL.
-
-My research interests lie in the intersection of kernel methods and computational statistics. Specifically, I am exploring the applications of Kernelized Stein Discrepancy to address challenges in computational statistics, including areas such as distribution testing, particle-based inference and parameter estimation.
+Hello, guys! My name is Jian. I am a PhD student at Fudan University. My research interest is cloud-side synergy-driven multimodal information fusion in personalised physiological parameter assessment. Specifically, my research interests include wearable electronics, deep learning, model lightweighting, edge computing and cloud computing technologies.
 
 ## Education 
-:mortar_board: PhD in Modern Statistics and Statistical Machine Learning, 2020-2024, <span class="grey">Imperial College London</span> \
-:mortar_board: MASt (Part III) in Mathematical Statistics, 2019-2020, <span class="grey">University of Cambridge</span> \
-:mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span class="grey">Imperial College London</span>
+:mortar_board: PhD in Electronic information, 2022.09-2025.12, <span class="grey">Fudan University</span> \
+:mortar_board: BSc in Instrumentation Science and Technology, 2019-2022, <span class="grey">SouthEast University</span>
 
 ## Resources
-[Here](https://github.com/XingLLiu/ImperialCollegePosterTemplate) is an **unofficial** LaTex poster template for maths/stats projects with a Imperial College theme. See the links therein for references.
+[Here](https://github.com/liuyisi123/Leaf_Net) is an open source code for physiological signal quality assessment. For references, see the links therein.
+[Here](https://github.com/liuyisi123/LSMOE) is an open source code for time series multitask learning. For references, see the links therein.
 
 ## Teaching
-I am/was a Teaching Assistant for the following courses:
-- Autumn 2023: *M.Sc. in Statistics Orientation Week*. Led by Dr [Oliver Ratmann](https://www.imperial.ac.uk/people/oliver.ratmann05).
-- Spring 2023: *Mathematical Foundations of Machine Learning*. Lectured by Dr [Anastasia Borovykh](https://abrvkh.github.io/).
-- Spring 2022: *Exploratory Data Analysis and Visualisation*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
-- Autumn 2021: *Applicable Maths*. Lectured by Dr [James Martin](https://www.imperial.ac.uk/people/james.martin).
+I am/was a teaching assistant for the following courses:
+- Autumn 2023 *Medical Electronic Instrumentation*. Chaired by Dr [Cuiwei Yang].
 
 ## News
-- [08/2024] From 12th to 16th August 2024, I will attend the 11th Bernoulli-IMS World Congress in Probability and Statistics, and present our recent preprint [On the Robustness of Kernel Goodness-of-Fit Tests](https://www.arxiv.org/abs/2408.05854), a joint work with Dr [François-Xavier Briol](https://fxbriol.github.io/). Come and join our session on Wednesday 14th at 11am if you are interested!
 
-- [08/2024] Our new preprint [On the Robustness of Kernel Goodness-of-Fit Tests](https://www.arxiv.org/abs/2408.05854) is out! This is a joint work with Dr [François-Xavier Briol](https://fxbriol.github.io/).
+- [10/2024] Our paper [Personalized Blood Pressure Estimation using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub) has been accepted by Applied Soft Computing.
 
-- [12/2023] From 17th to 21st, I will attend the 2023 IMS International Conference on Statistics and Data Science (ICSDS) in Lisbon, where I will give a contributed talk on our COLT paper [A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing](https://proceedings.mlr.press/v195/huang23a.html).
+- [10/2024] Our paper [An IoMT-Driven Framework for Precision Cardiovascular Assessment Incorporating Multiscale Perspectives and Microfiber Bragg Grating](https://ieeexplore.ieee.org/document/10722856/) has been accepted by IEEE Internet of Things Journal.
 
-- [10/2023] For this academic year, I will be visiting the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group, co-led by Dr [François-Xavier Briol](https://fxbriol.github.io/) and Dr [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/). Looking forward to an engaging experience with the amazing researchers in the group!
+- [10/2024] Our paper [IPCT-Net: Parallel information bottleneck modality fusion network for obstructive sleep apnea diagnosis](https://www.sciencedirect.com/science/article/pii/S0893608024007603?via%3Dihub) has been accepted by Neural Networks.
 
-- [10/2023] Starting from October 2023, I will become an [Enrichment Student](https://www.turing.ac.uk/work-turing/studentships/enrichment) at the [Alan Turing Institute](https://www.turing.ac.uk/), where I will join the Turing's research community for six months to broaden my research. Please do not hesitate to reach out if you are interested in collaboration!
+- [09/2024] Our paper [Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals](https://www.sciencedirect.com/science/article/pii/S0893608024006841?via%3Dihub) has been accepted by Neural Networks.
 
-- [05/2023] Our paper [A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing](https://proceedings.mlr.press/v195/huang23a.html) has been accepted by COLT 2023.
+- [07/2024] We won the second prize in the final of the Biomedical Engineering Competition in Hainan, China.
+  
+- [03/2024] Our paper [A multi-module algorithm for heartbeat classification based on unsupervised learning and adaptive feature transfer](https://www.sciencedirect.com/science/article/abs/pii/S0010482524001562?via%3Dihub) has been accepted by Computers in Biology and Medicine.
 
-- [04/2023] Our paper [Using Perturbation to Improve Goodness-of-Fit Tests based on Kernelized Stein Discrepancy](https://arxiv.org/abs/2304.14762) has been accepted by ICML 2023.
+- [02/2024] Our work has been recognised by JBHI as a Highlight Article [A Lightweight Hybrid Model Using Multiscale Markov Transition Field for Real-Time Quality Assessment of Photoplethysmography Signals](https://www.embs.org/jbhi/articles/february-2024-highlights/) for February 2024.
 
-- [09/2022] I finished my internship at [Meta](https://research.facebook.com/), where I worked on multi-task active learning methods for e-commerce.
+- [11/2023] Our paper [A Lightweight Hybrid Model Using Multiscale Markov Transition Field for Real-Time Quality Assessment of Photoplethysmography Signals]() has been accepted by IEEE Journal of Biomedical and Health Informatics.
 
-- [01/2022] Our paper [Grassmann Stein Variational Gradient Descent](https://proceedings.mlr.press/v151/liu22a.html) has been accepted by AISTATS 2022.
+- [08/2023] Our paper [Semi-Supervised Learning for Low-Cost Personalized Obstructive Sleep Apnea Detection Using Unsupervised Deep Learning and Single-Lead Electrocardiogram](https://www.sciencedirect.com/science/article/abs/pii/S1746809423006171?via%3Dihub) has been accepted by IEEE Journal of Biomedical and Health Informatics.
+
+- [08/2023] Our paper [A novel interpretable feature set optimization method in blood pressure estimation using photoplethysmography signals](https://ieeexplore.ieee.org/document/10214652) has been accepted by Biomedical Signal Processing and Control.
+
+- [07/2023] We won the second prize in the final of the Biomedical Engineering Competition in Chongqing, China.
+- 
+- [01/2023] Our paper [Personalized Transfer Learning for Single-Lead ECG-Based Sleep Apnea Detection: Exploring the Label Mapping Length and Transfer Strategy Using Hybrid Transformer Model](https://ieeexplore.ieee.org/document/10243153) has been accepted by IEEE Transactions on Instrumentation and Measurement.
+
+- [01/2023] Our paper [Exploring the Applicability of Transfer Learning and Feature Engineering in Epilepsy Prediction Using Hybrid Transformer Model](https://ieeexplore.ieee.org/document/10046136) has been accepted by IEEE transactions on neural systems and rehabilitation engineering.
+
+- [10/2022] Our paper [Sources of automatic office blood pressure measurement error: a systematic review](https://iopscience.iop.org/article/10.1088/1361-6579/ac890e) has been accepted by Physiological Measurement.
+
+- [09/2021] I attended Computing in Cardiology 2021 (CinC) in the Czech Republic and gave an oral presentation in the session on Blood Pressure Regulation and Variability.  
 
 <!-- ## Contact
 ### Email
-[firstname].[lastname]16 [at] imperial.ac.uk
+liuj22@m.fudan.edu.cn
 
 ### Address
-Office 617 \
-Huxley Building \
-180 Queen's Gate, South Kensington \
-London SW7 2AZ \
-UK -->
+No.2005 Songhu Road \
+Yangpu District \
+SHANGHAI \
+CN -->
