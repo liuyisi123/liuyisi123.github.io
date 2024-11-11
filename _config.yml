@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xing Liu 刘行"
+title                    : "Jian Liu 刘建"
 title_separator          : "-"
-name                     : &name "Xing liu"
+name                     : &name "Jian liu"
 description              : &description "Welcome to my webpage!"
 url                      : https://xinglliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
