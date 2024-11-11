@@ -2,7 +2,7 @@
 title: "Personalized Blood Pressure Estimation using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning"
 collection: articles
 permalink: /publication/2024-10-23_articles
-excerpt: "In this paper  we propose a parallel cross-hybrid architecture that integrates a convolutional neural network backbone and a Mix-Transformer backbone. This model, grounded in multi-view physiological signals and personalized fine-tuning strategies, aims to estimate BP, facilitating the capture of physiological information across diverse receptive fields and enhancing network expressive capabilitie.<br/><br/><img src='/images/publications_figs/m6ACisTransDissection.png'><br/>"
+excerpt: "In this paper  we propose a parallel cross-hybrid architecture that integrates a convolutional neural network backbone and a Mix-Transformer backbone. This model, grounded in multi-view physiological signals and personalized fine-tuning strategies, aims to estimate BP, facilitating the capture of physiological information across diverse receptive fields and enhancing network expressive capabilitie.<br/><br/><img src='/images/ASOC.jpg'><br/>"
 date: 2024-10-23
 venue: 'Applied Soft Computing'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub' 
