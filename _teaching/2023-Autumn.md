@@ -1,21 +1,16 @@
 ---
 title: "Medical Electronic Instruments"
 collection: teaching
-type: "MSc-PhD course"
 permalink: /teaching/2023-Autumn
-venue: "Jiangwan Campus, Fudan University, Teaching Building A"
-date: 2023-09-01 - 2024-01-15
-location: "Shanghai, CN"
----
-
----
-excerpt_separator: <!--more-->
+author_profile: true
 ---
 
 # Course Schedule and Key Points
 
 ## Overview
 This course provides a comprehensive introduction to the characteristics, principles, and applications of medical instrumentation, with a focus on the measurement and processing of physiological signals such as bioelectric signals, neural activity, and cardiovascular metrics. The course combines foundational theories with practical applications and highlights advancements in non-invasive and traditional measurement techniques.
+<!--more-->
+
 
 ## Schedule and Highlights
 
