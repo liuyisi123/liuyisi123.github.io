@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronic Information, School of Information Science and Technology, Fudan University, 2022.09 - 2025.12 (expected)
+* M.S. in Instrumentation Science and Technology,School of Instrumentation Science and Engineering, Southeast University, 2019.09 - 2022.06
+* B.S. in Measurement and Control Technology and Instrumentation, School of Electrical Engineering, Yanshan University., 2015.09 - 2019.06
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+I am seeking a postdoctoral/assistant professor job.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PYTHON
+  * Machine learning algorithms for time series
+  * Deep Learning Algorithms for Time Series - Classification, Prediction (Pytorch)
+* Design of Wearable Electronics
+  * Circuit design based on physiological signal acquisition (ECG, PPG, etc.)
+  * Peripheral circuit design
+  * Online transmission and offline storage of data
+* Design of the Cloud Edge Collaboration Framework
+  * PC-based host computer design
+  * Data transfer and visualisation on LANs
+  * Edge computing
 
 Publications
 ======
