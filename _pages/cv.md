@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Electronic Information, School of Information Science and Technology, Fudan University, 2022.09 - 2025.12 (expected)
 * M.S. in Instrumentation Science and Technology,School of Instrumentation Science and Engineering, Southeast University, 2019.09 - 2022.06
-* B.S. in Measurement and Control Technology and Instrumentation, School of Electrical Engineering, Yanshan University., 2015.09 - 2019.06
+* B.S. in Measurement and Control Technology and Instrumentation, School of Electrical Engineering, Yanshan University, 2015.09 - 2019.06
 
 Work experience
 ======
