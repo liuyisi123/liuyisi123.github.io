@@ -2,6 +2,9 @@
 title: "Medical Electronic Instruments"
 collection: teaching
 permalink: /teaching/2023-Autumn
+venue: "Jiangwan Campus, Fudan University, Teaching Building A"
+date: 2023-09-01 - 2024-01-15
+location: "Shanghai, CN"
 author_profile: true
 ---
 
