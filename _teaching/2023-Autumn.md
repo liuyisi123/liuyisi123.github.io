@@ -13,8 +13,6 @@ location: "Shanghai, CN"
 ## Overview
 This course provides a comprehensive introduction to the characteristics, principles, and applications of medical instrumentation, with a focus on the measurement and processing of physiological signals such as bioelectric signals, neural activity, and cardiovascular metrics. The course combines foundational theories with practical applications and highlights advancements in non-invasive and traditional measurement techniques.
 
----
-
 ## Schedule and Highlights
 
 - **September 15**  
@@ -58,8 +56,6 @@ This course provides a comprehensive introduction to the characteristics, princi
 - **November 30**  
   **Special Topic 2**: Comparative Analysis of Non-Contact vs. Traditional ECG Collection Methods  
   Discussion on advantages and limitations.
-
----
 
 ## Key Learning Objectives
 1. Understand the basic characteristics and principles of medical instrumentation.
