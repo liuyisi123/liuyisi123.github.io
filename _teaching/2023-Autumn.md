@@ -5,7 +5,7 @@ type: "MSc-PhD course"
 permalink: /teaching/2023-Autumn
 Place: ‘Jiangwan Campus, Fudan University, Teaching Building A’
 Date: 2023-09-01-2024-01-15
-Location: ‘SHANGHAI, CN 
+Location: ‘SHANGHAI, CN’
 ---
 
 # Course Schedule and Key Points
