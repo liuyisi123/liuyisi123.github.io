@@ -8,6 +8,10 @@ date: 2023-09-01 - 2024-01-15
 location: "Shanghai, CN"
 ---
 
+---
+excerpt_separator: <!--more-->
+---
+
 # Course Schedule and Key Points
 
 ## Overview
