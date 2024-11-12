@@ -1,5 +1,5 @@
 ---
-Title: ‘TMedical Electronic Instruments’
+Title: ‘Medical Electronic Instruments’
 Collection: Teaching
 TYPE: ‘Graduate Programme’
 Place: ‘Jiangwan Campus, Fudan University, Teaching Building A’
