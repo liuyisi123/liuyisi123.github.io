@@ -12,11 +12,12 @@ Hello, guys! My name is Jian. I am a PhD student at Fudan University. My researc
 
 ## Education 
 - PhD in Electronic information, 2022.09-2025.12, <span class="grey">Fudan University</span>
-- BSc in Instrumentation Science and Technology, 2019-2022, <span class="grey">SouthEast University</span>
+- Ms in Instrumentation Science and Technology, 2019-2022, <span class="grey">Southeast University</span>
+- BSc in Measurement and Control Technology and Instrumentation, 2015-2019, <span class="grey">Yanshan University</span>
 
 ## Resources
-[Here](https://github.com/liuyisi123/Leaf_Net) is an open source code for physiological signal quality assessment. For references, see the links therein
-[Here](https://github.com/liuyisi123/LSMOE) is an open source code for time series multitask learning. For references, see the links therein.
+[Here](https://github.com/liuyisi123/Leaf_Net) is an open source code for physiological signal quality assessment. For references, see the links therein</span>
+[Here](https://github.com/liuyisi123/LSMOE) is an open source code for time series multitask learning. For references, see the links therein</span>
 
 ## Teaching
 I am/was a teaching assistant for the following courses:
@@ -50,7 +51,9 @@ I am/was a teaching assistant for the following courses:
 
 - [01/2023] Our paper [Exploring the Applicability of Transfer Learning and Feature Engineering in Epilepsy Prediction Using Hybrid Transformer Model](https://ieeexplore.ieee.org/document/10046136) has been accepted by IEEE transactions on neural systems and rehabilitation engineering.
 
-- [10/2022] Our paper [Sources of automatic office blood pressure measurement error: a systematic review](https://iopscience.iop.org/article/10.1088/1361-6579/ac890e) has been accepted by Physiological Measurement.
+- [10/2022] Our paper [Sources of automatic office blood pressure measurement error: a systematic review](https://iopscience.iop.org/article/10.1088/1361-6579/ac890e
+        
+        ) has been accepted by Physiological Measurement.
 
 - [09/2021] I attended Computing in Cardiology 2021 (CinC) in the Czech Republic and gave an oral presentation in the session on Blood Pressure Regulation and Variability.  
 
