@@ -206,7 +206,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talk:
+  talks:
     output: true
     permalink: /:collection/:path/  
   resource:
@@ -252,15 +252,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _talk
+  # _talks
   - scope:
       path: ""
-      type: resourcetalk
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
-      share: true
-      comment: true    
+      share: true 
   # _resource
   - scope:
       path: ""
