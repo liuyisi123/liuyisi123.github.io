@@ -25,11 +25,11 @@ I am/was a teaching assistant for the following courses:
 
 ## News
 
-- 🎆🎆🎆 [10/2024] Our paper Personalized Blood Pressure Estimation using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning has been accepted by Applied Soft Computing.
+- [10/2024] 🎆🎆🎆 Our paper [Personalized Blood Pressure Estimation using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub) has been accepted by Applied Soft Computing.
 
-- 🎆🎆🎆 [10/2024] Our paper An IoMT-Driven Framework for Precision Cardiovascular Assessment Incorporating Multiscale Perspectives and Microfiber Bragg Grating has been accepted by IEEE Internet of Things Journal.
+- [10/2024] 🎆🎆🎆 Our paper [An IoMT-Driven Framework for Precision Cardiovascular Assessment Incorporating Multiscale Perspectives and Microfiber Bragg Grating](https://ieeexplore.ieee.org/document/10722856/) has been accepted by IEEE Internet of Things Journal.
 
-- 🎆🎆🎆 [10/2024] Our paper IPCT-Net: Parallel information bottleneck modality fusion network for obstructive sleep apnea diagnosis has been accepted by Neural Networks.
+- [10/2024] 🎆🎆🎆 Our paper [IPCT-Net: Parallel information bottleneck modality fusion network for obstructive sleep apnea diagnosis](https://www.sciencedirect.com/science/article/pii/S0893608024007603?via%3Dihub) has been accepted by Neural Networks.
 
 - [09/2024] Our paper [Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals](https://www.sciencedirect.com/science/article/pii/S0893608024006841?via%3Dihub) has been accepted by Neural Networks.
 
