@@ -16,8 +16,8 @@ Hello, guys! My name is Jian. I am a PhD student at Fudan University. My researc
 - BSc in Measurement and Control Technology and Instrumentation, 2015-2019, <span class="grey">Yanshan University</span>
 
 ## Resources
--1.[LSMOE](https://github.com/liuyisi123/Leaf_Net) is an open source code for physiological signal quality assessment. For references, see the links therein
--2.[LEAF-Net](https://github.com/liuyisi123/LSMOE) is an open source code for time series multitask learning. For references, see the links therein
+- 1.[LSMOE](https://github.com/liuyisi123/Leaf_Net) is an open source code for physiological signal quality assessment. For references, see the links therein
+- 2.[LEAF-Net](https://github.com/liuyisi123/LSMOE) is an open source code for time series multitask learning. For references, see the links therein
 
 ## Teaching
 I am/was a teaching assistant for the following courses:
