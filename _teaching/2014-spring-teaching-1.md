@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+Title: ‘TMedical Electronic Instruments’
+Collection: Teaching
+TYPE: ‘Graduate Programme’
+Place: ‘Jiangwan Campus, Fudan University, Teaching Building A’
+Date: 2023-09-01-2024-01-15
+Location: ‘SHANGHAI, CN 
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
