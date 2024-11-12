@@ -19,7 +19,7 @@ This course provides a comprehensive introduction to the characteristics, princi
 
 - **September 15**  
   **Chapter 1**: Characteristics of Medical Instruments  
-  Introduction to foundational concepts based on the textbook by Yu Xuefei, Chapter 1.
+  Introduction to foundational concepts based on the textbook.
 
 - **September 22**  
   **Chapter 2**: Measurement of Bioelectric Signals - Detection Part 1  
