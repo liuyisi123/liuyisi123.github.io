@@ -8,7 +8,7 @@ redirect_from:
   - /main.html
 ---
 
-Hello, guys! My name is Jian. I am a PhD student at Fudan University. My research interest is cloud-side synergy-driven multimodal information fusion in personalised physiological parameter assessment. Specifically, my research interests include wearable electronics, deep learning, model lightweighting, edge computing and cloud computing technologies.
+Hello, guys! My name is Jian. I am a PhD student at Fudan University. My research interest is Cloud-edge collaborative-driven multimodal information fusion in personalised physiological parameter assessment. Specifically, my research interests include wearable electronics, deep learning, model lightweighting, edge computing and cloud computing technologies.
 
 ## Education 
 - PhD in Electronic information, 2022.09-2025.12, <span class="grey">Fudan University</span>
