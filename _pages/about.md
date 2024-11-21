@@ -24,6 +24,7 @@ I am/was a teaching assistant for the following courses:
 - Autumn 2023 *Medical Electronic Instrumentation*. Chaired by Dr [Cuiwei Yang].
 
 ## News
+- [11/2024] Our paper [Preventing troublesome variability in clinical blood pressure measurement](https://www.nature.com/articles/s41371-024-00978-3#citeas) has been accepted by Journal of Human Hypertension.
 
 - [10/2024] 🎆🎆🎆 Our paper [Personalized Blood Pressure Estimation using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub) has been accepted by Applied Soft Computing.
 
