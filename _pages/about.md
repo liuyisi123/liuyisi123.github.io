@@ -28,10 +28,10 @@ redirect_from:
 
 ## 🔗 Resources
 - [**LSMOE**](https://github.com/liuyisi123/Leaf_Net) - Open-source code for physiological signal quality assessment. For references, check the links in the repo.
-  <a href="https://github.com/liuyisi123/Leaf_Net/archive/refs/heads/main.zip" target="_blank" style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#4CAF50; color:white; text-align:center; border-radius:5px; text-decoration:none;">Download LSMOE Code</a>
+  [![Download LSMOE Code](https://img.shields.io/badge/Download%20LSMOE%20Code-green?style=for-the-badge&logo=github)](https://github.com/liuyisi123/Leaf_Net/archive/refs/heads/main.zip)
 
 - [**LEAF-Net**](https://github.com/liuyisi123/LSMOE) - Open-source code for time-series multitask learning. See references for more details.
-  <a href="https://github.com/liuyisi123/LSMOE/archive/refs/heads/main.zip" target="_blank" style="display:inline-block; padding:10px 20px; margin-top:10px; background-color:#4CAF50; color:white; text-align:center; border-radius:5px; text-decoration:none;">Download LEAF-Net Code</a>
+  [![Download LEAF-Net Code](https://img.shields.io/badge/Download%20LEAF%20Net%20Code-blue?style=for-the-badge&logo=github)](https://github.com/liuyisi123/LSMOE/archive/refs/heads/main.zip)
 
 
 
