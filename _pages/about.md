@@ -13,7 +13,11 @@ redirect_from:
     <p>Hi, I'm Jian, a PhD student at <strong>Fudan University</strong>. My research interests lie in cloud-edge collaborative multimodal information fusion, specifically applied to personalized physiological parameter assessment. I specialize in wearable electronics, deep learning, model lightweighting, and the integration of edge and cloud computing technologies.</p>
 </div>
 
-## 🧑‍🎓 Education
+---
+
+## 🧑‍🎓 **Education**
+---
+
 - **PhD in Electronic Information**  
   *Fudan University*, 2022.09 - 2025.12  
   <span class="grey">Fudan University</span>
@@ -26,21 +30,33 @@ redirect_from:
   *Yanshan University*, 2015 - 2019  
   <span class="grey">Yanshan University</span>
 
-## 🔗 Resources
-- [**LSMOE**](https://github.com/liuyisi123/Leaf_Net) - Open-source code for physiological signal quality assessment. For references, check the links in the repo.
+---
+
+## 🔗 **Resources**
+---
+
+- [**LSMOE**](https://github.com/liuyisi123/Leaf_Net) - Open-source code for physiological signal quality assessment. For references, check the links in the repo.  
   [![Download LSMOE Code](https://img.shields.io/badge/Download%20LSMOE%20Code-green?style=for-the-badge&logo=github)](https://github.com/liuyisi123/Leaf_Net/archive/refs/heads/main.zip)
 
-- [**LEAF-Net**](https://github.com/liuyisi123/LSMOE) - Open-source code for time-series multitask learning. See references for more details.
+- [**LEAF-Net**](https://github.com/liuyisi123/LSMOE) - Open-source code for time-series multitask learning. See references for more details.  
   [![Download LEAF-Net Code](https://img.shields.io/badge/Download%20LEAF%20Net%20Code-blue?style=for-the-badge&logo=github)](https://github.com/liuyisi123/LSMOE/archive/refs/heads/main.zip)
 
-- [**FACT-Net**](https://github.com/liuyisi123/FACT-Net) - Source code and circuit diagrams for ABP reconfiguration. See references for more details.
+- [**FACT-Net**](https://github.com/liuyisi123/FACT-Net) - Source code and circuit diagrams for ABP reconfiguration. See references for more details.  
   [![Download FACT-Net Code](https://img.shields.io/badge/Download%20LEAF%20Net%20Code-yellow?style=for-the-badge&logo=github)](https://github.com/liuyisi123/LSMOE/archive/refs/heads/main.zip)
 
-## 📚 Teaching Experience
+---
+
+## 📚 **Teaching Experience**
+---
+
 I have had the privilege of assisting in the following courses:
 - **Autumn 2023**: *Medical Electronic Instrumentation* — Chaired by Dr. [Cuiwei Yang].
 
-## 📢 Recent News
+---
+
+## 📢 **Recent News**
+---
+
 - **11/2024**: Our paper *[Preventing Troublesome Variability in Clinical Blood Pressure Measurement](https://www.nature.com/articles/s41371-024-00978-3#citeas)* has been accepted by *Journal of Human Hypertension*.
 - **10/2024**: 🎉 *[Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub)* has been accepted by *Applied Soft Computing*.
 - **10/2024**: 🎆 *[An IoMT-Driven Framework for Precision Cardiovascular Assessment Incorporating Multiscale Perspectives and Microfiber Bragg Grating](https://ieeexplore.ieee.org/document/10722856/)* has been accepted by *IEEE Internet of Things Journal*.
@@ -58,11 +74,17 @@ I have had the privilege of assisting in the following courses:
 - **10/2022**: Our paper *[Sources of Automatic Office Blood Pressure Measurement Error: A Systematic Review](https://iopscience.iop.org/article/10.1088/1361-6579/ac890e)* has been accepted by *Physiological Measurement*.
 - **09/2021**: I attended *Computing in Cardiology 2021 (CinC)* in the Czech Republic and gave an oral presentation in the session on **Blood Pressure Regulation and Variability**.
 
+---
+
 <div style="text-align:center; margin-top:20px;">
     <a href="https://github.com/liuyisi123/Leaf_Net" style="font-size:16px; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Visit My GitHub</a>
 </div>
 
-## 📫 Contact Information
+---
+
+## 📫 **Contact Information**
+---
+
 You can reach me via email or by visiting my office:
 
 - **Email**: [liuj22@m.fudan.edu.cn](mailto:liuj22@m.fudan.edu.cn)
