@@ -33,7 +33,8 @@ redirect_from:
 - [**LEAF-Net**](https://github.com/liuyisi123/LSMOE) - Open-source code for time-series multitask learning. See references for more details.
   [![Download LEAF-Net Code](https://img.shields.io/badge/Download%20LEAF%20Net%20Code-blue?style=for-the-badge&logo=github)](https://github.com/liuyisi123/LSMOE/archive/refs/heads/main.zip)
 
-
+- [**FACT-Net**](https://github.com/liuyisi123/FACT-Net) - Source code and circuit diagrams for ABP reconfiguration. See references for more details.
+  [![Download FACT-Net Code](https://img.shields.io/badge/Download%20LEAF%20Net%20Code-yellow?style=for-the-badge&logo=github)](https://github.com/liuyisi123/LSMOE/archive/refs/heads/main.zip)
 
 ## 📚 Teaching Experience
 I have had the privilege of assisting in the following courses:
