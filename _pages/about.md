@@ -58,8 +58,8 @@ I have had the privilege of assisting in the following courses:
 ---
 
 - **11/2024**: Our paper *[Preventing Troublesome Variability in Clinical Blood Pressure Measurement](https://www.nature.com/articles/s41371-024-00978-3#citeas)* has been accepted by *Journal of Human Hypertension*.
-- **10/2024**: 🎉 *[Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub)* has been accepted by *Applied Soft Computing*.
-- **10/2024**: 🎆 *[An IoMT-Driven Framework for Precision Cardiovascular Assessment Incorporating Multiscale Perspectives and Microfiber Bragg Grating](https://ieeexplore.ieee.org/document/10722856/)* has been accepted by *IEEE Internet of Things Journal*.
+- **10/2024**: 🎉🎉 *[Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub)* has been accepted by *Applied Soft Computing*.
+- **10/2024**: 🎉🎉🎉 *[An IoMT-Driven Framework for Precision Cardiovascular Assessment Incorporating Multiscale Perspectives and Microfiber Bragg Grating](https://ieeexplore.ieee.org/document/10722856/)* has been accepted by *IEEE Internet of Things Journal*.
 - **10/2024**: Our paper *[IPCT-Net: Parallel Information Bottleneck Modality Fusion Network for Obstructive Sleep Apnea Diagnosis](https://www.sciencedirect.com/science/article/pii/S0893608024007603?via%3Dihub)* has been accepted by *Neural Networks*.
 - **09/2024**: *[Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals](https://www.sciencedirect.com/science/article/pii/S0893608024006841?via%3Dihub)* has been accepted by *Neural Networks*.
 - **07/2024**: We won the **second prize** in the final of the Biomedical Engineering Competition in Hainan, China.
