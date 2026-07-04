@@ -54,6 +54,30 @@ General artificial intelligence, wearable electronics, large language model appl
 
 ---
 
+## ⭐ Selected Publications
+---
+
+<div class="selected-publications">
+  <a href="/publication/2026-07-01_icml-specialist-models">
+    <span>ICML 2026</span>
+    <strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong>
+  </a>
+  <a href="/publication/2026-06-01_hemodynamic-fluctuation">
+    <span>Pattern Recognition 2026</span>
+    <strong>Thinking like Clinicians: Ranking-based Multi-instance Learning for PPG-based Hemodynamic Fluctuation Detection</strong>
+  </a>
+  <a href="/publication/2026-05-01_edge-intelligent-abp">
+    <span>Expert Systems with Applications 2026</span>
+    <strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference</strong>
+  </a>
+  <a href="/publication/2025-08-14_transparent-ai-sleep">
+    <span>Nature Communications 2025</span>
+    <strong>Transparent AI-enabled Interpretable and Interactive Sleep Apnea Assessment</strong>
+  </a>
+</div>
+
+---
+
 ## 🔗 Resources
 ---
 
@@ -95,16 +119,18 @@ I assisted with the following course:
   <div><time>Feb. 2026</time><p><em>An Ultra-Efficient Edge-Based Wearable System for Real-Time and Remote Blood Pressure Monitoring</em> was published in <em>Engineering Applications of Artificial Intelligence</em>.</p></div>
   <div><time>Feb. 2026</time><p><em>Exploring an Adaptive Framework for Accurate Personalized Cuff-Less Blood Pressure Tracking</em> was published in <em>IEEE Transactions on Instrumentation and Measurement</em>.</p></div>
   <div><time>Jan. 2026</time><p><em>Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals</em> was published in <em>IEEE Journal of Biomedical and Health Informatics</em>.</p></div>
+</div>
+
+<details class="news-more">
+  <summary>Earlier news</summary>
+  <div class="news-timeline news-timeline--compact">
   <div><time>Nov. 2025</time><p><em>XSleepFusion</em> was published in <em>Information Fusion</em>.</p></div>
   <div><time>Sep. 2025</time><p>Our dual-focus cloud-edge collaborative framework for multitask hemodynamic parameter analysis was published in <em>IEEE Internet of Things Journal</em>.</p></div>
   <div><time>Aug. 2025</time><p><em>Transparent artificial intelligence-enabled interpretable and interactive sleep apnea assessment across flexible monitoring scenarios</em> was published in <em>Nature Communications</em>.</p></div>
   <div><time>Jul. 2025</time><p>I gave an oral presentation at <em>EMBC 2025</em> on VAM, a parallel cross-modal hybrid network for vascular age estimation from PPG.</p></div>
   <div><time>Jun. 2025</time><p><em>PULSE</em>, a personalized physiological signal analysis framework, was published in <em>Expert Systems with Applications</em>.</p></div>
   <div><time>May 2025</time><p><em>LEAF-Net</em> was published in <em>Expert Systems with Applications</em>.</p></div>
-</div>
-
-<details class="news-more">
-  <summary>Earlier news</summary>
+  </div>
   <ul>
     <li><strong>2024</strong>: Our paper <em><a href="https://www.nature.com/articles/s41371-024-00978-3#citeas">Preventing Troublesome Variability in Clinical Blood Pressure Measurement</a></em> was published in <em>Journal of Human Hypertension</em>.</li>
     <li><strong>2024</strong>: <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub">Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning</a></em> was published in <em>Applied Soft Computing</em>.</li>

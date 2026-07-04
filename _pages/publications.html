@@ -29,16 +29,24 @@ author_profile: true
 {% else %}
   {% assign filter_years = "" %}
   <div class="publication-filter" aria-label="Filter publications by year">
-    <button type="button" class="is-active" data-publication-filter="all">All</button>
+    <button type="button" class="is-active" data-publication-filter="all">All <span>{{ site.publications | size }}</span></button>
     {% for post in site.publications reversed %}
       {% assign post_year = post.date | default: "1900-01-01" | date: "%Y" %}
       {% assign year_token = post_year | append: "," %}
       {% unless filter_years contains year_token %}
-        <button type="button" data-publication-filter="{{ post_year }}">{{ post_year }}</button>
+        {% assign year_count = 0 %}
+        {% for count_post in site.publications %}
+          {% assign count_year = count_post.date | default: "1900-01-01" | date: "%Y" %}
+          {% if count_year == post_year %}
+            {% assign year_count = year_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+        <button type="button" data-publication-filter="{{ post_year }}">{{ post_year }} <span>{{ year_count }}</span></button>
         {% assign filter_years = filter_years | append: year_token %}
       {% endunless %}
     {% endfor %}
   </div>
+  <p class="publication-filter-status" aria-live="polite">Showing all publications.</p>
 
   {% assign current_year = "" %}
   {% for post in site.publications reversed %}
@@ -61,6 +69,7 @@ author_profile: true
     document.addEventListener('DOMContentLoaded', function () {
       var buttons = document.querySelectorAll('[data-publication-filter]');
       var sections = document.querySelectorAll('[data-publication-year]');
+      var status = document.querySelector('.publication-filter-status');
 
       buttons.forEach(function (button) {
         button.addEventListener('click', function () {
@@ -74,6 +83,10 @@ author_profile: true
             var showSection = year === 'all' || section.getAttribute('data-publication-year') === year;
             section.hidden = !showSection;
           });
+
+          if (status) {
+            status.textContent = year === 'all' ? 'Showing all publications.' : 'Showing publications from ' + year + '.';
+          }
         });
       });
     });
