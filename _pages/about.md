@@ -153,7 +153,6 @@ I assisted with the following course:
 <div class="awards-list">
   <div><time>2025</time><p><strong>Fudan University Titled Scholarship</strong> (sole recipient in school).</p></div>
   <div><time>2025 / 2019</time><p><strong>Outstanding Graduate</strong>, Fudan University / Hebei Province / Yanshan University.</p></div>
-  <div><time>2025</time><p><strong>2nd Place, National Finals</strong>, ZTE "Holding the Moon" Algorithm Challenge.</p></div>
   <div><time>2024-2025</time><p><strong>Academic Scholarship</strong> (1st/2nd Class), Fudan University.</p></div>
   <div><time>2024</time><p><strong>3rd Prize</strong>, China Postgraduate Artificial Intelligence Innovation Competition.</p></div>
   <div><time>2021 / 2023</time><p><strong>1st/2nd Prize</strong>, National University Student BME Innovation Design Competition.</p></div>
