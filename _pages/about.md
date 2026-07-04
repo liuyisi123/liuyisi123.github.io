@@ -20,6 +20,8 @@ redirect_from:
     </div>
 </div>
 
+<!-- Selected publications refreshed after removing the Pattern Recognition highlight card. -->
+
 ---
 
 ## 💼 Current Position
