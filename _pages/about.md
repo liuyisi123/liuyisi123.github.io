@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <div class="profile-hero">
+    <p class="profile-kicker">AI Healthcare Research · Wearable Sensing · Edge Intelligence</p>
     <h1>Welcome to My Personal Research Hub!</h1>
     <p>Hi, I'm Jian Liu, a Postdoctoral Fellow at <strong>The Chinese University of Hong Kong</strong>. My research focuses on general artificial intelligence, wearable electronics, large language model applications, model compression, and edge computing. I work on intelligent sensing systems and efficient AI methods for real-world healthcare and distributed IoT scenarios.</p>
     <div class="profile-badges" aria-label="Research keywords">
@@ -20,7 +21,12 @@ redirect_from:
     </div>
 </div>
 
-<!-- Selected publications refreshed after removing the Pattern Recognition highlight card. -->
+<div class="impact-strip" aria-label="Research highlights">
+  <div><strong>25+</strong><span>Publications</span></div>
+  <div><strong>ICML 2026</strong><span>Medical AI</span></div>
+  <div><strong>Nat. Commun.</strong><span>Interpretable AI</span></div>
+  <div><strong>Edge + Wearables</strong><span>Healthcare IoT</span></div>
+</div>
 
 ---
 
@@ -63,14 +69,17 @@ General artificial intelligence, wearable electronics, large language model appl
   <a href="/publication/2026-07-01_icml-specialist-models">
     <span>ICML 2026</span>
     <strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong>
+    <em>Medical AI · Multi-agent systems</em>
   </a>
   <a href="/publication/2026-05-01_edge-intelligent-abp">
     <span>Expert Systems with Applications 2026</span>
     <strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference</strong>
+    <em>Edge AI · Blood pressure inference</em>
   </a>
   <a href="/publication/2025-08-14_transparent-ai-sleep">
     <span>Nature Communications 2025</span>
     <strong>Transparent AI-enabled Interpretable and Interactive Sleep Apnea Assessment</strong>
+    <em>Interpretable AI · Sleep apnea</em>
   </a>
 </div>
 
