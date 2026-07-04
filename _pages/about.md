@@ -18,6 +18,18 @@ redirect_from:
         <span>Model Compression</span>
         <span>Edge Computing</span>
     </div>
+    <div class="profile-metrics" aria-label="Research metrics">
+        <span><strong>30+</strong> SCI papers</span>
+        <span><strong>10</strong> first-author / student-first-author papers</span>
+        <span><strong>2</strong> oral conference papers</span>
+        <span><strong>400+</strong> citations</span>
+        <span><strong>H-index 10</strong></span>
+    </div>
+    <div class="profile-actions">
+        <a href="/publications/">Publications</a>
+        <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar</a>
+        <a href="https://github.com/liuyisi123">GitHub</a>
+    </div>
 </div>
 
 ---
@@ -87,8 +99,8 @@ I assisted with the following course:
 
 <div class="news-timeline">
   <div><time>2026</time><p>🎉🎉🎉 I started as a Postdoctoral Fellow at <em>The Chinese University of Hong Kong</em>.</p></div>
-  <div><time>2026</time><p>🎉🎉🎉 Our paper <em>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</em> was published in <em>Expert Systems with Applications</em>.</p></div>
-  <div><time>2026</time><p>🎉🎉🎉 Our work <em>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</em> was accepted by <em>ICML 2026</em>.</p></div>
+  <div><time>May 2026</time><p>🎉🎉🎉 Our paper <em>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</em> was published in <em>Expert Systems with Applications</em>.</p></div>
+  <div><time>Jul. 2026</time><p>🎉🎉🎉 Our work <em>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</em> was accepted by <em>ICML 2026</em>.</p></div>
   <div><time>2025</time><p>🎉🎉🎉 Our dual-focus cloud-edge collaborative framework for multitask hemodynamic parameter analysis was published in <em>IEEE Internet of Things Journal</em>.</p></div>
   <div><time>2025</time><p>🎉🎉🎉 <em>LEAF-Net</em> was published in <em>Expert Systems with Applications</em>.</p></div>
   <div><time>2025</time><p>🎉🎉🎉 Our transparent AI work for interpretable and interactive sleep apnea assessment was published in <em>Nature Communications</em>.</p></div>
@@ -106,12 +118,6 @@ I assisted with the following course:
     <li><strong>2021</strong>: I attended <em>Computing in Cardiology 2021</em> and gave an oral presentation on blood pressure regulation and variability.</li>
   </ul>
 </details>
-
----
-
-<div style="text-align:center; margin-top:20px;">
-    <a href="https://github.com/liuyisi123" style="font-size:16px; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Visit My GitHub</a>
-</div>
 
 ---
 
