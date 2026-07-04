@@ -62,10 +62,6 @@ General artificial intelligence, wearable electronics, large language model appl
     <span>ICML 2026</span>
     <strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong>
   </a>
-  <a href="/publication/2026-06-01_hemodynamic-fluctuation">
-    <span>Pattern Recognition 2026</span>
-    <strong>Thinking like Clinicians: Ranking-based Multi-instance Learning for PPG-based Hemodynamic Fluctuation Detection</strong>
-  </a>
   <a href="/publication/2026-05-01_edge-intelligent-abp">
     <span>Expert Systems with Applications 2026</span>
     <strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference</strong>
