@@ -18,18 +18,6 @@ redirect_from:
         <span>Model Compression</span>
         <span>Edge Computing</span>
     </div>
-    <div class="profile-metrics" aria-label="Research metrics">
-        <span><strong>30+</strong> SCI papers</span>
-        <span><strong>10</strong> first-author / student-first-author papers</span>
-        <span><strong>2</strong> oral conference papers</span>
-        <span><strong>400+</strong> citations</span>
-        <span><strong>H-index 10</strong></span>
-    </div>
-    <div class="profile-actions">
-        <a href="/publications/">Publications</a>
-        <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar</a>
-        <a href="https://github.com/liuyisi123">GitHub</a>
-    </div>
 </div>
 
 ---
@@ -102,18 +90,20 @@ I assisted with the following course:
   <div><time>2026</time><p>🎉🎉🎉 I started as a Postdoctoral Fellow at <em>The Chinese University of Hong Kong</em>.</p></div>
   <div><time>Jul. 2026</time><p>🎉🎉🎉 Our work <em>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</em> was accepted by <em>ICML 2026</em>.</p></div>
   <div><time>May 2026</time><p>🎉🎉🎉 Our paper <em>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</em> was published in <em>Expert Systems with Applications</em>.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 <em>Transparent artificial intelligence-enabled interpretable and interactive sleep apnea assessment across flexible monitoring scenarios</em> was published in <em>Nature Communications</em>.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 <em>An Ultra-Efficient Edge-Based Wearable System for Real-Time and Remote Blood Pressure Monitoring</em> was published in <em>Engineering Applications of Artificial Intelligence</em>.</p></div>
+  <div><time>Jul. 2025</time><p>🎉🎉🎉 I gave an oral presentation at <em>EMBC 2025</em> on VAM, a parallel cross-modal hybrid network for vascular age estimation from PPG.</p></div>
   <div><time>2025</time><p>🎉🎉🎉 Our dual-focus cloud-edge collaborative framework for multitask hemodynamic parameter analysis was published in <em>IEEE Internet of Things Journal</em>.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 <em>Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis</em> was published in <em>Information Fusion</em>.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 <em>XSleepFusion</em> was published in <em>Information Fusion</em>.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 <em>PULSE</em>, a personalized physiological signal analysis framework, was published in <em>Expert Systems with Applications</em>.</p></div>
   <div><time>2025</time><p>🎉🎉🎉 <em>LEAF-Net</em> was published in <em>Expert Systems with Applications</em>.</p></div>
-  <div><time>2025</time><p>🎉🎉🎉 Our transparent AI work for interpretable and interactive sleep apnea assessment was published in <em>Nature Communications</em>.</p></div>
-  <div><time>Jul. 2025</time><p>I gave an oral presentation at <em>EMBC 2025</em> on VAM, a parallel cross-modal hybrid network for vascular age estimation from PPG.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 <em>Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals</em> was published in <em>IEEE Journal of Biomedical and Health Informatics</em>.</p></div>
 </div>
 
 <details class="news-more">
   <summary>Earlier news</summary>
   <ul>
-    <li><strong>2025</strong>: <em>XSleepFusion</em> was published in <em>Information Fusion</em>.</li>
-    <li><strong>2025</strong>: <em>Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis</em> was published in <em>Information Fusion</em>.</li>
-    <li><strong>2025</strong>: <em>PULSE</em> was published in <em>Expert Systems with Applications</em>.</li>
     <li><strong>2024</strong>: Our paper <em><a href="https://www.nature.com/articles/s41371-024-00978-3#citeas">Preventing Troublesome Variability in Clinical Blood Pressure Measurement</a></em> was published in <em>Journal of Human Hypertension</em>.</li>
     <li><strong>2024</strong>: <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub">Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning</a></em> was published in <em>Applied Soft Computing</em>.</li>
     <li><strong>2021</strong>: I attended <em>Computing in Cardiology 2021</em> and gave an oral presentation on blood pressure regulation and variability.</li>
