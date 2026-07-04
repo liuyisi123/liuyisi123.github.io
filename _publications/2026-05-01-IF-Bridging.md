@@ -1,12 +1,12 @@
 ---
 title: "[21] Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis"
 collection: articles
-permalink: /publication/2025-05-01_bridging
+permalink: /publication/2026-05-01_bridging
 excerpt: "This work studies connections between computer vision methods and bioelectrical signal analysis."
-date: 2025-01-01
+date: 2026-05-01
 venue: 'Information Fusion'
 paperurl: 'https://doi.org/10.1016/j.inffus.2025.104047'
-citation: 'Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Aiguo Wang, Guohui Zhou, and Cuiwei Yang. "Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis." Information Fusion (2025): 104047. DOI: 10.1016/j.inffus.2025.104047.'
+citation: 'Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Aiguo Wang, Guohui Zhou, and Cuiwei Yang. "Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis." Information Fusion 129 (2026): 104047. DOI: 10.1016/j.inffus.2025.104047.'
 ---
 
 Abstract

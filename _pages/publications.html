@@ -27,15 +27,57 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
+  {% assign filter_years = "" %}
+  <div class="publication-filter" aria-label="Filter publications by year">
+    <button type="button" class="is-active" data-publication-filter="all">All</button>
+    {% for post in site.publications reversed %}
+      {% assign post_year = post.date | default: "1900-01-01" | date: "%Y" %}
+      {% assign year_token = post_year | append: "," %}
+      {% unless filter_years contains year_token %}
+        <button type="button" data-publication-filter="{{ post_year }}">{{ post_year }}</button>
+        {% assign filter_years = filter_years | append: year_token %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+
   {% assign current_year = "" %}
   {% for post in site.publications reversed %}
     {% assign post_year = post.date | default: "1900-01-01" | date: "%Y" %}
     {% if post_year != current_year %}
+      {% unless forloop.first %}
+        </div>
+      {% endunless %}
       {% assign current_year = post_year %}
-      <h2 class="publication-year">{{ current_year }}</h2><hr />
+      <div class="publication-year-section" data-publication-year="{{ current_year }}">
+        <h2 class="publication-year">{{ current_year }}</h2><hr />
     {% endif %}
     {% include archive-single.html %}
+    {% if forloop.last %}
+      </div>
+    {% endif %}
   {% endfor %}
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var buttons = document.querySelectorAll('[data-publication-filter]');
+      var sections = document.querySelectorAll('[data-publication-year]');
+
+      buttons.forEach(function (button) {
+        button.addEventListener('click', function () {
+          var year = button.getAttribute('data-publication-filter');
+
+          buttons.forEach(function (item) {
+            item.classList.toggle('is-active', item === button);
+          });
+
+          sections.forEach(function (section) {
+            var showSection = year === 'all' || section.getAttribute('data-publication-year') === year;
+            section.hidden = !showSection;
+          });
+        });
+      });
+    });
+  </script>
 {% endif %}
 
 
