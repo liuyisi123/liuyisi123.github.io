@@ -20,11 +20,10 @@ redirect_from:
         <span>Edge Computing</span>
     </div>
     <div class="scholar-metrics" aria-label="Google Scholar metrics">
-        <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar Profile: <strong>520 citations</strong></a>
+        <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar Profile</a>
         <div class="scholar-badges">
-            <span class="scholar-badge scholar-badge--citations">Citations: 520</span>
-            <span class="scholar-badge scholar-badge--hindex">h-index: 14</span>
-            <span class="scholar-badge scholar-badge--i10">i10-index: 16</span>
+            <span class="scholar-badge scholar-badge--citations">Citations: 400+</span>
+            <span class="scholar-badge scholar-badge--hindex">h-index: 10</span>
         </div>
     </div>
 </div>
@@ -115,24 +114,6 @@ I assisted with the following course:
 
 ---
 
-## Awards & Honors
----
-
-<div class="awards-list">
-  <div><time>2025</time><p><strong>Fudan University Titled Scholarship</strong> (sole recipient in school).</p></div>
-  <div><time>2025 / 2019</time><p><strong>Outstanding Graduate</strong>, Fudan University / Hebei Province / Yanshan University.</p></div>
-  <div><time>2025</time><p><strong>2nd Place, National Finals</strong>, ZTE "Holding the Moon" Algorithm Challenge.</p></div>
-  <div><time>2024-2025</time><p><strong>Academic Scholarship</strong> (1st/2nd Class), Fudan University.</p></div>
-  <div><time>2024</time><p><strong>3rd Prize</strong>, China Postgraduate Artificial Intelligence Innovation Competition.</p></div>
-  <div><time>2021 / 2023</time><p><strong>1st/2nd Prize</strong>, National University Student BME Innovation Design Competition.</p></div>
-  <div><time>2024 / 2019</time><p><strong>Outstanding Youth League Member</strong>, Fudan University / Yanshan University.</p></div>
-  <div><time>2022</time><p><strong>Outstanding Communist Party Member</strong>, Southeast University.</p></div>
-  <div><time>2019-2021</time><p><strong>2nd Class Academic Scholarship</strong>, Southeast University (consecutive years).</p></div>
-  <div><time>2016-2018</time><p><strong>Outstanding Student / Class Leader</strong>, Yanshan University.</p></div>
-</div>
-
----
-
 ## 📢 Recent News
 ---
 
@@ -163,6 +144,24 @@ I assisted with the following course:
     <li><strong>2021</strong>: I attended <em>Computing in Cardiology 2021</em> and gave an oral presentation on blood pressure regulation and variability.</li>
   </ul>
 </details>
+
+---
+
+## Awards & Honors
+---
+
+<div class="awards-list">
+  <div><time>2025</time><p><strong>Fudan University Titled Scholarship</strong> (sole recipient in school).</p></div>
+  <div><time>2025 / 2019</time><p><strong>Outstanding Graduate</strong>, Fudan University / Hebei Province / Yanshan University.</p></div>
+  <div><time>2025</time><p><strong>2nd Place, National Finals</strong>, ZTE "Holding the Moon" Algorithm Challenge.</p></div>
+  <div><time>2024-2025</time><p><strong>Academic Scholarship</strong> (1st/2nd Class), Fudan University.</p></div>
+  <div><time>2024</time><p><strong>3rd Prize</strong>, China Postgraduate Artificial Intelligence Innovation Competition.</p></div>
+  <div><time>2021 / 2023</time><p><strong>1st/2nd Prize</strong>, National University Student BME Innovation Design Competition.</p></div>
+  <div><time>2024 / 2019</time><p><strong>Outstanding Youth League Member</strong>, Fudan University / Yanshan University.</p></div>
+  <div><time>2022</time><p><strong>Outstanding Communist Party Member</strong>, Southeast University.</p></div>
+  <div><time>2019-2021</time><p><strong>2nd Class Academic Scholarship</strong>, Southeast University (consecutive years).</p></div>
+  <div><time>2016-2018</time><p><strong>Outstanding Student / Class Leader</strong>, Yanshan University.</p></div>
+</div>
 
 ---
 
