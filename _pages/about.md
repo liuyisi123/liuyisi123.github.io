@@ -21,13 +21,6 @@ redirect_from:
     </div>
 </div>
 
-<div class="impact-strip" aria-label="Research highlights">
-  <div><strong>25+</strong><span>Publications</span></div>
-  <div><strong>ICML 2026</strong><span>Medical AI</span></div>
-  <div><strong>Nat. Commun.</strong><span>Interpretable AI</span></div>
-  <div><strong>Edge + Wearables</strong><span>Healthcare IoT</span></div>
-</div>
-
 ---
 
 ## 💼 Current Position

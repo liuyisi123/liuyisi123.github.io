@@ -93,41 +93,6 @@
   line-height: 1.35;
 }
 
-.impact-strip {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-  gap: 0.65rem;
-  margin: 0.85rem 0 1.25rem;
-}
-
-.impact-strip div {
-  min-height: 4.6rem;
-  padding: 0.72rem 0.8rem;
-  border: 1px solid #d9e7e5;
-  border-top: 3px solid #2b7bbb;
-  border-radius: 8px;
-  background: #ffffff;
-  box-shadow: 0 8px 22px rgba(29, 68, 82, 0.06);
-}
-
-.impact-strip strong,
-.impact-strip span {
-  display: block;
-}
-
-.impact-strip strong {
-  color: #123f4a;
-  font-size: 0.95rem;
-  line-height: 1.35;
-}
-
-.impact-strip span {
-  margin-top: 0.18rem;
-  color: #64716f;
-  font-size: 0.76rem;
-  line-height: 1.35;
-}
-
 .selected-publications {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
