@@ -9,48 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+I am a Ph.D. candidate in Electronic Information at Fudan University. My research focuses on medical AI, wearable biosignals, medical IoT, cardiovascular diagnosis, and multimodal physiological signal analysis, with particular interest in cloud-edge collaborative systems and lightweight deep learning for personalized healthcare.
+
 Education
 ======
-* Ph.D in Electronic Information, School of Information Science and Technology, Fudan University, 2022.09 - 2025.12 (expected)
-* M.S. in Instrumentation Science and Technology,School of Instrumentation Science and Engineering, Southeast University, 2019.09 - 2022.06
-* B.S. in Measurement and Control Technology and Instrumentation, School of Electrical Engineering, Yanshan University, 2015.09 - 2019.06
+* Ph.D. in Electronic Information, School of Information Science and Technology, Fudan University, Sep. 2022 - Dec. 2025
+* M.S. in Instrumentation Science and Technology, School of Instrumentation Science and Engineering, Southeast University, Sep. 2019 - Jun. 2022
+* B.S. in Measurement and Control Technology and Instrumentation, School of Electrical Engineering, Yanshan University, Sep. 2015 - Jun. 2019
 
-Work experience
+Research interests
 ======
-I am seeking a postdoctoral/assistant professor job.
-  
+Medical AI, wearable biosignals, medical IoT, AI agents, cardiovascular disease diagnosis, multimodal physiological signal fusion, cloud-edge collaborative computing, and lightweight deep learning.
+
 Skills
 ======
-* PYTHON
-  * Machine learning algorithms for time series
-  * Deep Learning Algorithms for Time Series - Classification, Prediction (Pytorch)
-* Design of Wearable Electronics
-  * Circuit design based on physiological signal acquisition (ECG, PPG, etc.)
-  * Peripheral circuit design
-  * Online transmission and offline storage of data
-* Design of the Cloud Edge Collaboration Framework
-  * PC-based host computer design
-  * Data transfer and visualisation on LANs
-  * Edge computing
+* Programming and modeling
+  * Python, PyTorch, TensorFlow, Scikit-learn, MATLAB, C/C++, Linux Shell
+  * Machine learning and deep learning for physiological time series
+  * Signal processing, classification, prediction, and personalized modeling
+* Wearable electronics and IoT systems
+  * Physiological signal acquisition for ECG, PPG, and related biosignals
+  * Embedded systems, PCB design, and peripheral circuit design
+  * Online transmission, offline storage, and real-time visualization
+* Cloud-edge collaborative computing
+  * Edge deployment of lightweight models
+  * LAN-based data transfer and monitoring interfaces
+  * Multi-device physiological monitoring systems
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
