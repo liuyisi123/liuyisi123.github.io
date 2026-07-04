@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Hello, I'm Jian Liu, a Ph.D. candidate at Fudan University. Welcome to my research space!"
+excerpt: "Hello, I'm Jian Liu, a Postdoctoral Fellow at The Chinese University of Hong Kong. Welcome to my research space!"
 author_profile: true
 redirect_from:
   - /main/
@@ -10,15 +10,23 @@ redirect_from:
 
 <div class="profile-hero">
     <h1>Welcome to My Personal Research Hub!</h1>
-    <p>Hi, I'm Jian Liu, a Ph.D. candidate in Electronic Information at <strong>Fudan University</strong>. My research focuses on medical AI, wearable biosignals, medical IoT, cardiovascular diagnosis, and multimodal physiological signal analysis. I work on cloud-edge collaborative sensing systems, lightweight deep learning models, and personalized hemodynamic assessment for real-world healthcare applications.</p>
+    <p>Hi, I'm Jian Liu, a Postdoctoral Fellow at <strong>The Chinese University of Hong Kong</strong>. My research focuses on general artificial intelligence, wearable electronics, large language model applications, model compression, and edge computing. I work on intelligent sensing systems and efficient AI methods for real-world healthcare and distributed IoT scenarios.</p>
     <div class="profile-badges" aria-label="Research keywords">
-        <span>Medical AI</span>
-        <span>Wearable Biosignals</span>
-        <span>Medical IoT</span>
-        <span>Cloud-Edge Computing</span>
-        <span>Cardiovascular Diagnosis</span>
+        <span>General AI</span>
+        <span>Wearable Electronics</span>
+        <span>LLM Applications</span>
+        <span>Model Compression</span>
+        <span>Edge Computing</span>
     </div>
 </div>
+
+---
+
+## 💼 Current Position
+---
+
+- **Postdoctoral Fellow**  
+  *The Chinese University of Hong Kong*, 2026 - Present
 
 ---
 
@@ -42,7 +50,7 @@ redirect_from:
 ## 🔬 Research Interests
 ---
 
-Medical AI, wearable biosignals, medical IoT, AI agents, cardiovascular disease diagnosis, multimodal physiological signal fusion, cloud-edge collaborative computing, and lightweight deep learning.
+General artificial intelligence, wearable electronics, large language model applications, model compression, edge computing, intelligent physiological sensing, and efficient AI systems.
 
 ---
 
@@ -78,24 +86,24 @@ I assisted with the following course:
 ---
 
 <div class="news-timeline">
-  <div><time>06/2026</time><p>Our work on ranking-based multi-instance learning for PPG-based hemodynamic fluctuation detection was published in <em>Pattern Recognition</em>.</p></div>
-  <div><time>05/2026</time><p>Our work <em>Bridging the gap between computer vision and bioelectrical signal analysis</em> was published in <em>Information Fusion</em>.</p></div>
-  <div><time>01/2026</time><p>Our work on pretrained transformers for dense prediction in physiological signals was published in <em>IEEE Journal of Biomedical and Health Informatics</em>.</p></div>
-  <div><time>2026</time><p>Our work on personalized cuff-less blood pressure tracking was published in <em>IEEE Transactions on Instrumentation and Measurement</em>.</p></div>
-  <div><time>11/2025</time><p><em>XSleepFusion</em> was published in <em>Information Fusion</em>.</p></div>
-  <div><time>09/2025</time><p>Our dual-focus cloud-edge collaborative framework for multitask hemodynamic parameter analysis was published in <em>IEEE Internet of Things Journal</em>.</p></div>
-  <div><time>08/2025</time><p>Our transparent AI work for interpretable sleep apnea assessment was published in <em>Nature Communications</em>.</p></div>
-  <div><time>07/2025</time><p>I gave an oral presentation at <em>EMBC 2025</em> on VAM, a parallel cross-modal hybrid network for vascular age estimation from PPG.</p></div>
+  <div><time>2026</time><p>🎉🎉🎉 I started as a Postdoctoral Fellow at <em>The Chinese University of Hong Kong</em>.</p></div>
+  <div><time>2026</time><p>🎉🎉🎉 Our paper <em>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</em> was published in <em>Expert Systems with Applications</em>.</p></div>
+  <div><time>2026</time><p>🎉🎉🎉 Our work <em>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</em> was accepted by <em>ICML 2026</em>.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 Our dual-focus cloud-edge collaborative framework for multitask hemodynamic parameter analysis was published in <em>IEEE Internet of Things Journal</em>.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 <em>LEAF-Net</em> was published in <em>Expert Systems with Applications</em>.</p></div>
+  <div><time>2025</time><p>🎉🎉🎉 Our transparent AI work for interpretable and interactive sleep apnea assessment was published in <em>Nature Communications</em>.</p></div>
+  <div><time>Jul. 2025</time><p>I gave an oral presentation at <em>EMBC 2025</em> on VAM, a parallel cross-modal hybrid network for vascular age estimation from PPG.</p></div>
 </div>
 
 <details class="news-more">
   <summary>Earlier news</summary>
   <ul>
-    <li><strong>05/2025</strong>: <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425006177?via%3Dihub">LEAF-Net</a></em> was published in <em>Expert Systems with Applications</em>.</li>
-    <li><strong>11/2024</strong>: Our paper <em><a href="https://www.nature.com/articles/s41371-024-00978-3#citeas">Preventing Troublesome Variability in Clinical Blood Pressure Measurement</a></em> was published in <em>Journal of Human Hypertension</em>.</li>
-    <li><strong>10/2024</strong>: <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub">Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning</a></em> was accepted by <em>Applied Soft Computing</em>.</li>
-    <li><strong>10/2024</strong>: <em><a href="https://ieeexplore.ieee.org/document/10722856/">An IoMT-Driven Framework for Precision Cardiovascular Assessment Incorporating Multiscale Perspectives and Microfiber Bragg Grating</a></em> was accepted by <em>IEEE Internet of Things Journal</em>.</li>
-    <li><strong>09/2021</strong>: I attended <em>Computing in Cardiology 2021</em> and gave an oral presentation on blood pressure regulation and variability.</li>
+    <li><strong>2025</strong>: <em>XSleepFusion</em> was published in <em>Information Fusion</em>.</li>
+    <li><strong>2025</strong>: <em>Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis</em> was published in <em>Information Fusion</em>.</li>
+    <li><strong>2025</strong>: <em>PULSE</em> was published in <em>Expert Systems with Applications</em>.</li>
+    <li><strong>2024</strong>: Our paper <em><a href="https://www.nature.com/articles/s41371-024-00978-3#citeas">Preventing Troublesome Variability in Clinical Blood Pressure Measurement</a></em> was published in <em>Journal of Human Hypertension</em>.</li>
+    <li><strong>2024</strong>: <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub">Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning</a></em> was published in <em>Applied Soft Computing</em>.</li>
+    <li><strong>2021</strong>: I attended <em>Computing in Cardiology 2021</em> and gave an oral presentation on blood pressure regulation and variability.</li>
   </ul>
 </details>
 
@@ -113,6 +121,6 @@ I assisted with the following course:
 You can reach me via email or by visiting my office:
 
 - **Email**: [jianliu@cuhk.edu.hk](mailto:jianliu@cuhk.edu.hk)
-- **Address**: No. 2005 Songhu Road, Yangpu District, Shanghai, China
+- **Address**: The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
 
 ---

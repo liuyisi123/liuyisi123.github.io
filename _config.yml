@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jian Liu 刘建"
 title_separator          : "-"
 name                     : &name "Jian Liu"
-description              : &description "Ph.D. Candidate in Electronic Information"
+description              : &description "Postdoctoral Fellow at The Chinese University of Hong Kong"
 url                      : https://liuyisi123.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuyisi123/liuyisi123.github.io"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Jian Liu"
   pronouns         : 
-  bio              : "Ph.D. Candidate, Electronic Information, Fudan University"
-  location         : "Shanghai, China"
+  bio              : "Postdoctoral Fellow, The Chinese University of Hong Kong"
+  location         : "Hong Kong SAR, China"
   employer         : 
   uri              : # URL
   email            : "jianliu@cuhk.edu.hk"

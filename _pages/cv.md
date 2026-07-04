@@ -11,7 +11,11 @@ redirect_from:
 
 Profile
 ======
-I am a Ph.D. candidate in Electronic Information at Fudan University. My research focuses on medical AI, wearable biosignals, medical IoT, cardiovascular diagnosis, and multimodal physiological signal analysis, with particular interest in cloud-edge collaborative systems and lightweight deep learning for personalized healthcare.
+I am a Postdoctoral Fellow at The Chinese University of Hong Kong. My research focuses on general artificial intelligence, wearable electronics, large language model applications, model compression, and edge computing, with continuing interests in intelligent physiological sensing and efficient AI systems for healthcare.
+
+Current position
+======
+* Postdoctoral Fellow, The Chinese University of Hong Kong, 2026 - Present
 
 Education
 ======
@@ -21,13 +25,13 @@ Education
 
 Research interests
 ======
-Medical AI, wearable biosignals, medical IoT, AI agents, cardiovascular disease diagnosis, multimodal physiological signal fusion, cloud-edge collaborative computing, and lightweight deep learning.
+General artificial intelligence, wearable electronics, large language model applications, model compression, edge computing, intelligent physiological sensing, and efficient AI systems.
 
 Skills
 ======
 * Programming and modeling
   * Python, PyTorch, TensorFlow, Scikit-learn, MATLAB, C/C++, Linux Shell
-  * Machine learning and deep learning for physiological time series
+  * Machine learning, deep learning, and large language model applications
   * Signal processing, classification, prediction, and personalized modeling
 * Wearable electronics and IoT systems
   * Physiological signal acquisition for ECG, PPG, and related biosignals

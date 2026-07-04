@@ -9,7 +9,7 @@ author_profile: true
 jianliu@cuhk.edu.hk  
 
 ### Address  
-No. 2005 Songhu Road  
-Yangpu District  
-Shanghai  
+The Chinese University of Hong Kong  
+Shatin, New Territories  
+Hong Kong SAR  
 China  

@@ -27,7 +27,13 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
+  {% assign current_year = "" %}
   {% for post in site.publications reversed %}
+    {% assign post_year = post.date | default: "1900-01-01" | date: "%Y" %}
+    {% if post_year != current_year %}
+      {% assign current_year = post_year %}
+      <h2>{{ current_year }}</h2><hr />
+    {% endif %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
