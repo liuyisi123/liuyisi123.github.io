@@ -1,7 +1,7 @@
 ---
 title: "[19] Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals"
 collection: articles
-permalink: /publication/2026-01-01_pretrained-transformer-physiology
+permalink: /publication/2025-01-01_pretrained-transformer-physiology
 excerpt: "This work studies pretrained transformers for dense prediction in physiological signals."
 date: 2025-01-01
 venue: 'IEEE Journal of Biomedical and Health Informatics'

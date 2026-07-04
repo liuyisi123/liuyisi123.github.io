@@ -169,8 +169,15 @@
   grid-template-columns: 6.2rem 1fr;
   gap: 0.8rem;
   align-items: start;
-  padding: 0.7rem 0;
+  padding: 0.72rem 0.75rem;
+  border-left: 3px solid transparent;
   border-bottom: 1px solid #e5ece9;
+  border-radius: 6px;
+}
+
+.news-timeline div:nth-child(-n + 3) {
+  border-left-color: #d6942c;
+  background: #fffaf0;
 }
 
 .news-timeline time {

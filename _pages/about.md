@@ -90,6 +90,7 @@ General artificial intelligence, wearable electronics, large language model appl
 ---
 
 I assisted with the following course:
+
 - **Autumn 2023**: *Medical Electronic Instrumentation*, chaired by Prof. Cuiwei Yang.
 
 ---
@@ -99,8 +100,8 @@ I assisted with the following course:
 
 <div class="news-timeline">
   <div><time>2026</time><p>🎉🎉🎉 I started as a Postdoctoral Fellow at <em>The Chinese University of Hong Kong</em>.</p></div>
-  <div><time>May 2026</time><p>🎉🎉🎉 Our paper <em>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</em> was published in <em>Expert Systems with Applications</em>.</p></div>
   <div><time>Jul. 2026</time><p>🎉🎉🎉 Our work <em>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</em> was accepted by <em>ICML 2026</em>.</p></div>
+  <div><time>May 2026</time><p>🎉🎉🎉 Our paper <em>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</em> was published in <em>Expert Systems with Applications</em>.</p></div>
   <div><time>2025</time><p>🎉🎉🎉 Our dual-focus cloud-edge collaborative framework for multitask hemodynamic parameter analysis was published in <em>IEEE Internet of Things Journal</em>.</p></div>
   <div><time>2025</time><p>🎉🎉🎉 <em>LEAF-Net</em> was published in <em>Expert Systems with Applications</em>.</p></div>
   <div><time>2025</time><p>🎉🎉🎉 Our transparent AI work for interpretable and interactive sleep apnea assessment was published in <em>Nature Communications</em>.</p></div>
