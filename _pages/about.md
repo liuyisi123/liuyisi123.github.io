@@ -62,6 +62,26 @@ General artificial intelligence, wearable electronics, large language model appl
 
 ---
 
+## Research Focus
+---
+
+<div class="research-focus-grid">
+  <div>
+    <strong>Medical AI & Foundation Models</strong>
+    <p>Designing specialist and multi-agent AI paradigms for medical decision support, physiological signal understanding, and clinically grounded intelligence.</p>
+  </div>
+  <div>
+    <strong>Wearable Physiological Sensing</strong>
+    <p>Developing robust sensing and signal analysis methods for blood pressure inference, sleep apnea assessment, and hemodynamic monitoring.</p>
+  </div>
+  <div>
+    <strong>Edge Intelligence for Healthcare IoT</strong>
+    <p>Building efficient cloud-edge collaborative systems that balance real-time inference, model compression, and deployable healthcare performance.</p>
+  </div>
+</div>
+
+---
+
 ## ⭐ Selected Publications
 ---
 
@@ -69,16 +89,28 @@ General artificial intelligence, wearable electronics, large language model appl
   <a href="/publication/2026-07-01_icml-specialist-models">
     <span>ICML 2026</span>
     <strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong>
+    <ul>
+      <li>Studies why specialist medical models remain valuable alongside general-purpose AI systems.</li>
+      <li>Introduces a heterogeneous multi-agent paradigm for clinically oriented medical intelligence.</li>
+    </ul>
     <em>Medical AI · Multi-agent systems</em>
   </a>
   <a href="/publication/2026-05-01_edge-intelligent-abp">
     <span>Expert Systems with Applications 2026</span>
     <strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference</strong>
+    <ul>
+      <li>Builds a cross-platform architecture for distributed healthcare IoT and ABP inference.</li>
+      <li>Connects knowledge-intensive modeling with deployable edge-intelligent physiological monitoring.</li>
+    </ul>
     <em>Edge AI · Blood pressure inference</em>
   </a>
   <a href="/publication/2025-08-14_transparent-ai-sleep">
     <span>Nature Communications 2025</span>
     <strong>Transparent AI-enabled Interpretable and Interactive Sleep Apnea Assessment</strong>
+    <ul>
+      <li>Supports interpretable and interactive sleep apnea assessment across flexible monitoring scenarios.</li>
+      <li>Highlights transparent AI for clinically meaningful multimodal sleep analysis.</li>
+    </ul>
     <em>Interpretable AI · Sleep apnea</em>
   </a>
 </div>
