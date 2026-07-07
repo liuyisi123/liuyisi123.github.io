@@ -1,5 +1,5 @@
 ---
-title: "[21] Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis"
+title: "Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis"
 header:
   teaser: FACT-Net.png
 collection: articles

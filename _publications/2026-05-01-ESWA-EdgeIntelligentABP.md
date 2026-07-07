@@ -1,5 +1,5 @@
 ---
-title: "[A2] Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks"
+title: "Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks"
 header:
   teaser: Fig.2.jpg
 collection: articles

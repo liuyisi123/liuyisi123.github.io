@@ -1,5 +1,5 @@
 ---
-title: "[22] Thinking like Clinicians: Ranking-based Multi-instance Learning for PPG-based Hemodynamic Fluctuation Detection"
+title: "Thinking like Clinicians: Ranking-based Multi-instance Learning for PPG-based Hemodynamic Fluctuation Detection"
 header:
   teaser: Fig.3.jpg
 collection: articles

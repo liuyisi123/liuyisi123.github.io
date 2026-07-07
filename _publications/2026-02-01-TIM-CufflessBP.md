@@ -1,5 +1,5 @@
 ---
-title: "[20] Exploring an Adaptive Framework for Accurate Personalized Cuff-Less Blood Pressure Tracking"
+title: "Exploring an Adaptive Framework for Accurate Personalized Cuff-Less Blood Pressure Tracking"
 header:
   teaser: TIM.jpg
 collection: articles

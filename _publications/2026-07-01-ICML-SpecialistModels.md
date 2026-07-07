@@ -1,5 +1,5 @@
 ---
-title: "[ICML 2026] Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence"
+title: "Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence"
 header:
   teaser: icml-specialist-models-fig1.png
 collection: articles

@@ -1,5 +1,5 @@
 ---
-title: "[16] Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios"
+title: "Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios"
 header:
   teaser: NN-1.jpg
 collection: articles

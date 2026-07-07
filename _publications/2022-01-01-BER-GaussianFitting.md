@@ -1,5 +1,5 @@
 ---
-title: "[A10] A Gaussian-Fitting-Optimized Algorithm for Blood Pressure Determination"
+title: "A Gaussian-Fitting-Optimized Algorithm for Blood Pressure Determination"
 header:
   teaser: PMEA.jpg
 collection: articles

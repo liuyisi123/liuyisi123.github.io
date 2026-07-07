@@ -1,5 +1,5 @@
 ---
-title: "[18] XSleepFusion: A Dual-stage Information Bottleneck Fusion Framework for Interpretable Multimodal Sleep Analysis"
+title: "XSleepFusion: A Dual-stage Information Bottleneck Fusion Framework for Interpretable Multimodal Sleep Analysis"
 header:
   teaser: NN-1.jpg
 collection: articles

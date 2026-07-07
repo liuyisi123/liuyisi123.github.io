@@ -1,5 +1,5 @@
 ---
-title: "[19] Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals"
+title: "Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals"
 header:
   teaser: JBHI-1.jpg
 collection: articles

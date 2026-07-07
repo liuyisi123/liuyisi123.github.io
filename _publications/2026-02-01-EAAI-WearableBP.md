@@ -1,5 +1,5 @@
 ---
-title: "[23] An Ultra-Efficient Edge-Based Wearable System for Real-Time and Remote Blood Pressure Monitoring"
+title: "An Ultra-Efficient Edge-Based Wearable System for Real-Time and Remote Blood Pressure Monitoring"
 header:
   teaser: Hardware.png
 collection: articles
