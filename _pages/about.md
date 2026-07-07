@@ -156,7 +156,7 @@ Yanan Wang, Shuaicong Hu, **Jian Liu**, Guohui Zhou, Aiguo Wang, and Cuiwei Yang
     <div class="paper-box-image">
       <a href="/publication/2025-08-14_transparent-ai-sleep">
         <span class="venue-badge">Nat. Commun. 2025</span>
-        <img src="/images/NN-1.jpg" alt="Transparent AI and multimodal sleep analysis framework">
+        <img src="/images/NatComm-AIX-Fig1.png" alt="Transparent AI-enabled sleep apnea assessment framework">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
@@ -209,18 +209,18 @@ Yanan Wang, Shuaicong Hu, **Jian Liu**, Aiguo Wang, Guohui Zhou, and Cuiwei Yang
 
   <div class="paper-box">
     <div class="paper-box-image">
-      <a href="/publication/2026-01-01_pretrained-transformer-physiology">
-        <span class="venue-badge">JBHI 2026</span>
-        <img src="/images/JBHI-1.jpg" alt="Pretrained transformer for physiological signals">
+      <a href="/publication/2024-09-01_articles">
+        <span class="venue-badge">Neural Networks 2025</span>
+        <img src="/images/NN-2.jpg" alt="Efficient multi-view fusion and view-missing adaptation framework">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
 
-[**Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals**](/publication/2026-01-01_pretrained-transformer-physiology)<br>
+[**Efficient Multi-View Fusion and Flexible Adaptation to View Missing in Cardiovascular System Signals**](/publication/2024-09-01_articles)<br>
 Qihan Hu, Daomiao Wang, Hong Wu, **Jian Liu**, and Cuiwei Yang.<br>
-*IEEE Journal of Biomedical and Health Informatics, 2026.*
+*Neural Networks, 2025.*
 
-- Explores pretrained transformer models for dense physiological signal prediction.
+- Studies robust multiview physiological signal fusion and flexible adaptation to missing views.
 </div>
   </div>
 
@@ -266,7 +266,7 @@ Qihan Hu, Daomiao Wang, Hong Wu, **Jian Liu**, and Cuiwei Yang.<br>
     <div class="paper-box-image">
       <a href="/publication/2025-06-01_dual-focus">
         <span class="venue-badge">IEEE IoT-J 2025</span>
-        <img src="/images/JIOT.jpg" alt="Cloud-edge collaborative hemodynamic analysis">
+        <img src="/images/Fig.1.jpg" alt="Dual-focus cloud-edge collaborative hemodynamic analysis framework">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
@@ -283,7 +283,7 @@ Qihan Hu, Daomiao Wang, Hong Wu, **Jian Liu**, and Cuiwei Yang.<br>
     <div class="paper-box-image">
       <a href="/publication/2024-10-14_articles">
         <span class="venue-badge">IEEE IoT-J 2025</span>
-        <img src="/images/CPMP-IoT.png" alt="IoMT-driven precision cardiovascular assessment framework">
+        <img src="/images/JIOT.jpg" alt="IoMT-driven precision cardiovascular assessment framework">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
