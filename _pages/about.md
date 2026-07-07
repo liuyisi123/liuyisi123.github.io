@@ -1,24 +1,27 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "Hello, I'm Jian Liu, a Postdoctoral Fellow at The Chinese University of Hong Kong. Welcome to my research space!"
+title: ""
+excerpt: "Jian Liu is a Postdoctoral Fellow at The Chinese University of Hong Kong."
 author_profile: true
 redirect_from:
   - /main/
   - /main.html
 ---
 
+# 🧑‍🎓 About Me
+
 <div class="about-summary" markdown="1">
 
 I am a Postdoctoral Fellow at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). Before joining CUHK, I received my Ph.D. degree in Electronic Information from Fudan University in 2025, advised by Prof. Cuiwei Yang. I received my M.S. degree from Southeast University in 2022 and my B.S. degree from Yanshan University in 2019.
 
-My research interests include general artificial intelligence, wearable electronics, large language model applications, model compression, edge computing, and intelligent physiological sensing. My recent work focuses on medical AI, wearable physiological monitoring, and efficient AI systems for healthcare and distributed IoT scenarios.
+My research focuses on general medical AI, wearable physiological sensing, edge intelligence, model compression, and deployable healthcare systems. I am especially interested in building robust and interpretable AI methods that can move from curated datasets to real-world physiological monitoring and distributed IoT scenarios.
 
-My papers have appeared in venues and journals such as ICML, Nature Communications, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, Information Fusion, and Expert Systems with Applications.
+My papers have appeared in venues and journals including ICML, Nature Communications, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, Information Fusion, and Expert Systems with Applications.
 
 </div>
 
 <div class="scholar-profile" data-metrics-src="/assets/data/scholar-metrics.json">
+  <a class="scholar-link" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar</a>
   <div class="scholar-badges" aria-label="Google Scholar metrics">
     <a class="scholar-badge scholar-badge--citations" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-citations>Citations: 400+</a>
     <a class="scholar-badge scholar-badge--hindex" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-hindex>h-index: 10</a>
@@ -43,18 +46,41 @@ My papers have appeared in venues and journals such as ICML, Nature Communicatio
   });
 </script>
 
+<nav class="home-anchor-nav" aria-label="Homepage sections">
+  <a href="#education">Education</a>
+  <a href="#research-interests">Research</a>
+  <a href="#news">News</a>
+  <a href="#awards--honors">Awards</a>
+  <a href="#selected-publications">Publications</a>
+  <a href="#resources">Resources</a>
+  <a href="#contact-information">Contact</a>
+</nav>
+
 ## 🧑‍🎓 Education
 
-- **Ph.D. in Electronic Information**, Fudan University, Sep. 2022 - Dec. 2025. Advisor: Prof. Cuiwei Yang.
-- **M.S. in Instrumentation Science and Technology**, Southeast University, Sep. 2019 - Jun. 2022. Advisors: Prof. Chengyu Liu and Prof. Alan Murray.
-- **B.S. in Measurement and Control Technology and Instrumentation**, Yanshan University, Sep. 2015 - Jun. 2019. Advisor: Prof. Yantao Zhao.
+<div class="education-timeline">
+  <div>
+    <time>2022 - 2025</time>
+    <p><strong>Ph.D. in Electronic Information</strong>, Fudan University<br><span>Advisor: Prof. Cuiwei Yang</span></p>
+  </div>
+  <div>
+    <time>2019 - 2022</time>
+    <p><strong>M.S. in Instrumentation Science and Technology</strong>, Southeast University<br><span>Advisors: Prof. Chengyu Liu and Prof. Alan Murray</span></p>
+  </div>
+  <div>
+    <time>2015 - 2019</time>
+    <p><strong>B.S. in Measurement and Control Technology and Instrumentation</strong>, Yanshan University<br><span>Advisor: Prof. Yantao Zhao</span></p>
+  </div>
+</div>
 
 ## 🔬 Research Interests
 
-- Wearable physiological sensing and quality assessment for real-world healthcare monitoring.
-- Cuffless blood pressure estimation, hemodynamic parameter analysis, and sleep-related physiological computing.
-- Edge intelligence and model compression for deployable healthcare IoT systems.
-- Medical AI, large language model applications, and interpretable decision-support systems.
+<div class="interest-list">
+  <span>General medical AI and interpretable healthcare systems</span>
+  <span>Wearable physiological sensing and signal quality assessment</span>
+  <span>Foundation models and representation learning for physiological signals</span>
+  <span>Edge intelligence, model compression, and healthcare IoT deployment</span>
+</div>
 
 ## 📢 News
 
@@ -82,88 +108,200 @@ My papers have appeared in venues and journals such as ICML, Nature Communicatio
   </ul>
 </details>
 
+## 🏆 Awards & Honors
+
+<div class="awards-list">
+  <div><time>2025</time><p>Fudan University Titled Scholarship, sole recipient in school.</p></div>
+  <div><time>2025 / 2019</time><p>Outstanding Graduate, Fudan University / Hebei Province / Yanshan University.</p></div>
+  <div><time>2024-2025</time><p>Academic Scholarship, 1st/2nd Class, Fudan University.</p></div>
+  <div><time>2024</time><p>3rd Prize, China Postgraduate Artificial Intelligence Innovation Competition.</p></div>
+  <div><time>2021 / 2023</time><p>1st/2nd Prize, National University Student BME Innovation Design Competition.</p></div>
+  <div><time>2024 / 2019</time><p>Outstanding Youth League Member, Fudan University / Yanshan University.</p></div>
+  <div><time>2022</time><p>Outstanding Communist Party Member, Southeast University.</p></div>
+  <div><time>2019-2021</time><p>2nd Class Academic Scholarship, Southeast University, consecutive years.</p></div>
+  <div><time>2016-2018</time><p>Outstanding Student / Class Leader, Yanshan University.</p></div>
+</div>
+
 ## ⭐ Selected Publications
 
-<div class="paper-group">
+<div class="publication-theme">
   <h3>General Medical AI and Interpretable Healthcare</h3>
-  <div class="paper-item">
-    <p><a href="/publication/2026-07-01_icml-specialist-models"><strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong></a><br>
-    Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Guohui Zhou, Aiguo Wang, and Cuiwei Yang.<br>
-    <em>International Conference on Machine Learning (ICML), 2026.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2026-07-01_icml-specialist-models">
+        <span class="venue-badge">ICML 2026</span>
+        <div class="paper-visual paper-visual--ai">Medical AI</div>
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence**](/publication/2026-07-01_icml-specialist-models)<br>
+Yanan Wang, Shuaicong Hu, **Jian Liu**, Guohui Zhou, Aiguo Wang, and Cuiwei Yang.<br>
+*International Conference on Machine Learning (ICML), 2026.*
+
+- Studies a heterogeneous multi-agent paradigm for specialist medical AI.
+</div>
   </div>
-  <div class="paper-item">
-    <p><a href="/publication/2025-08-14_transparent-ai-sleep"><strong>Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios</strong></a><br>
-    Shuaicong Hu, <b>Jian Liu</b>, Yanan Wang, Cong Fu, Jichu Zhu, Huan Yu, and Cuiwei Yang.<br>
-    <em>Nature Communications, 2025.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2025-08-14_transparent-ai-sleep">
+        <span class="venue-badge">Nat. Commun. 2025</span>
+        <div class="paper-visual paper-visual--sleep">Transparent AI</div>
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios**](/publication/2025-08-14_transparent-ai-sleep)<br>
+Shuaicong Hu, **Jian Liu**, Yanan Wang, Cong Fu, Jichu Zhu, Huan Yu, and Cuiwei Yang.<br>
+*Nature Communications, 2025.*
+
+- Develops transparent AI for flexible and interpretable sleep apnea assessment.
+</div>
   </div>
-  <div class="paper-item">
-    <p><a href="/publication/2025-04-01_xsleepfusion"><strong>XSleepFusion: A Dual-stage Information Bottleneck Fusion Framework for Interpretable Multimodal Sleep Analysis</strong></a><br>
-    Shuaicong Hu, Yanan Wang, <b>Jian Liu</b>, and Cuiwei Yang.<br>
-    <em>Information Fusion, 2025.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2025-04-01_xsleepfusion">
+        <span class="venue-badge">Inf. Fusion 2025</span>
+        <div class="paper-visual paper-visual--fusion">Fusion</div>
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**XSleepFusion: A Dual-stage Information Bottleneck Fusion Framework for Interpretable Multimodal Sleep Analysis**](/publication/2025-04-01_xsleepfusion)<br>
+Shuaicong Hu, Yanan Wang, **Jian Liu**, and Cuiwei Yang.<br>
+*Information Fusion, 2025.*
+
+- Uses information bottleneck fusion to improve interpretable multimodal sleep analysis.
+</div>
   </div>
 </div>
 
-<div class="paper-group">
+<div class="publication-theme">
   <h3>Physiological Signal Foundation and Representation Learning</h3>
-  <div class="paper-item">
-    <p><a href="/publication/2026-05-01_bridging"><strong>Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis</strong></a><br>
-    Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Aiguo Wang, Guohui Zhou, and Cuiwei Yang.<br>
-    <em>Information Fusion, 2026.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2026-05-01_bridging">
+        <span class="venue-badge">Inf. Fusion 2026</span>
+        <div class="paper-visual paper-visual--signal">Bioelectrical AI</div>
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis**](/publication/2026-05-01_bridging)<br>
+Yanan Wang, Shuaicong Hu, **Jian Liu**, Aiguo Wang, Guohui Zhou, and Cuiwei Yang.<br>
+*Information Fusion, 2026.*
+
+- Connects visual representation learning with bioelectrical signal analysis.
+</div>
   </div>
-  <div class="paper-item">
-    <p><a href="/publication/2026-01-01_pretrained-transformer-physiology"><strong>Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals</strong></a><br>
-    Qihan Hu, Daomiao Wang, Hong Wu, <b>Jian Liu</b>, and Cuiwei Yang.<br>
-    <em>IEEE Journal of Biomedical and Health Informatics, 2026.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2026-01-01_pretrained-transformer-physiology">
+        <span class="venue-badge">JBHI 2026</span>
+        <img src="/images/JBHI-1.jpg" alt="Pretrained transformer for physiological signals">
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals**](/publication/2026-01-01_pretrained-transformer-physiology)<br>
+Qihan Hu, Daomiao Wang, Hong Wu, **Jian Liu**, and Cuiwei Yang.<br>
+*IEEE Journal of Biomedical and Health Informatics, 2026.*
+
+- Explores pretrained transformer models for dense physiological signal prediction.
+</div>
   </div>
-  <div class="paper-item">
-    <p><a href="/publication/2025-2-21_articles"><strong>LEAF-Net: A Real-Time Fine-Grained Quality Assessment System for Physiological Signals Using Lightweight Evolutionary Attention Fusion</strong></a><br>
-    <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Qihan Hu, Daomiao Wang, Wei Xiang, Xujian Feng, and Cuiwei Yang.<br>
-    <em>Expert Systems with Applications, 2025.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2025-2-21_articles">
+        <span class="venue-badge">ESWA 2025</span>
+        <img src="/images/ESWA.jpg" alt="LEAF-Net physiological signal quality assessment">
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**LEAF-Net: A Real-Time Fine-Grained Quality Assessment System for Physiological Signals Using Lightweight Evolutionary Attention Fusion**](/publication/2025-2-21_articles)<br>
+**Jian Liu**, Shuaicong Hu, Yanan Wang, Qihan Hu, Daomiao Wang, Wei Xiang, Xujian Feng, and Cuiwei Yang.<br>
+*Expert Systems with Applications, 2025.*
+
+- Builds a lightweight real-time system for fine-grained physiological signal quality assessment.
+</div>
   </div>
 </div>
 
-<div class="paper-group">
+<div class="publication-theme">
   <h3>Edge Intelligence and Wearable Healthcare Systems</h3>
-  <div class="paper-item">
-    <p><a href="/publication/2026-05-01_edge-intelligent-abp"><strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</strong></a><br>
-    <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Wei Xiang, and Cuiwei Yang.<br>
-    <em>Expert Systems with Applications, 2026.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2026-05-01_edge-intelligent-abp">
+        <span class="venue-badge">ESWA 2026</span>
+        <img src="/images/Fig.2.jpg" alt="Edge-intelligent arterial blood pressure inference">
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks**](/publication/2026-05-01_edge-intelligent-abp)<br>
+**Jian Liu**, Shuaicong Hu, Yanan Wang, Wei Xiang, and Cuiwei Yang.<br>
+*Expert Systems with Applications, 2026.*
+
+- Designs a cross-platform edge architecture for distributed arterial blood pressure inference.
+</div>
   </div>
-  <div class="paper-item">
-    <p><a href="/publication/2025-06-01_dual-focus"><strong>A Dual-Focus Cloud-Edge Collaborative Framework in Multitask Hemodynamic Parameter Cross-Scale Analysis: The Equilibrium of Clinical Performance and Efficiency</strong></a><br>
-    <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Wei Xiang, and Cuiwei Yang.<br>
-    <em>IEEE Internet of Things Journal, 2025.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2025-06-01_dual-focus">
+        <span class="venue-badge">IEEE IoT-J 2025</span>
+        <img src="/images/JIOT.jpg" alt="Cloud-edge collaborative hemodynamic analysis">
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**A Dual-Focus Cloud-Edge Collaborative Framework in Multitask Hemodynamic Parameter Cross-Scale Analysis**](/publication/2025-06-01_dual-focus)<br>
+**Jian Liu**, Shuaicong Hu, Yanan Wang, Wei Xiang, and Cuiwei Yang.<br>
+*IEEE Internet of Things Journal, 2025.*
+
+- Balances clinical performance and computation efficiency for wearable hemodynamic analysis.
+</div>
   </div>
-  <div class="paper-item">
-    <p><a href="/publication/2026-02-01_wearable-bp"><strong>An Ultra-Efficient Edge-Based Wearable System for Real-Time and Remote Blood Pressure Monitoring</strong></a><br>
-    Wei Xiang, <b>Jian Liu</b>, Shuaicong Hu, HaiHui Zhang, Chao Huang, and Cuiwei Yang.<br>
-    <em>Engineering Applications of Artificial Intelligence, 2026.</em></p>
+
+  <div class="paper-box">
+    <div class="paper-box-image">
+      <a href="/publication/2026-02-01_wearable-bp">
+        <span class="venue-badge">EAAI 2026</span>
+        <img src="/images/Fig.1.jpg" alt="Wearable blood pressure monitoring system">
+      </a>
+    </div>
+    <div class="paper-box-text" markdown="1">
+
+[**An Ultra-Efficient Edge-Based Wearable System for Real-Time and Remote Blood Pressure Monitoring**](/publication/2026-02-01_wearable-bp)<br>
+Wei Xiang, **Jian Liu**, Shuaicong Hu, HaiHui Zhang, Chao Huang, and Cuiwei Yang.<br>
+*Engineering Applications of Artificial Intelligence, 2026.*
+
+- Presents an efficient wearable and edge-based system for real-time remote monitoring.
+</div>
   </div>
 </div>
 
-[Full publication list](/publications/)
+<p class="publication-cta"><a href="/publications/">Full publication list</a></p>
 
 ## 🔗 Resources
 
-- [LSMOE](https://github.com/liuyisi123/LSMOE): Time-series multitask learning and personalized hemodynamic parameter estimation.
-- [LEAF-Net](https://github.com/liuyisi123/Leaf_Net): Fine-grained quality assessment for physiological signals.
-- [FACT-Net](https://github.com/liuyisi123/FACT-Net): ABP signal reconstruction with source code and circuit materials.
+<div class="resource-grid">
+  <a class="resource-card" href="https://github.com/liuyisi123/LSMOE"><strong>LSMOE</strong><span>Time-series multitask learning and personalized hemodynamic parameter estimation.</span></a>
+  <a class="resource-card" href="https://github.com/liuyisi123/Leaf_Net"><strong>LEAF-Net</strong><span>Fine-grained quality assessment for physiological signals.</span></a>
+  <a class="resource-card" href="https://github.com/liuyisi123/FACT-Net"><strong>FACT-Net</strong><span>ABP signal reconstruction with source code and circuit materials.</span></a>
+</div>
 
 ## 📚 Teaching Experience
 
 - **Autumn 2023**: Teaching assistant, *Medical Electronic Instrumentation*, chaired by Prof. Cuiwei Yang.
-
-## Awards & Honors
-
-- **2025**: Fudan University Titled Scholarship (sole recipient in school).
-- **2025 / 2019**: Outstanding Graduate, Fudan University / Hebei Province / Yanshan University.
-- **2024-2025**: Academic Scholarship (1st/2nd Class), Fudan University.
-- **2024**: 3rd Prize, China Postgraduate Artificial Intelligence Innovation Competition.
-- **2021 / 2023**: 1st/2nd Prize, National University Student BME Innovation Design Competition.
-- **2024 / 2019**: Outstanding Youth League Member, Fudan University / Yanshan University.
-- **2022**: Outstanding Communist Party Member, Southeast University.
-- **2019-2021**: 2nd Class Academic Scholarship, Southeast University (consecutive years).
-- **2016-2018**: Outstanding Student / Class Leader, Yanshan University.
 
 ## 📫 Contact Information
 
