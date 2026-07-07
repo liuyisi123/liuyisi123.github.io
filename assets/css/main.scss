@@ -626,6 +626,7 @@
   border-radius: 6px;
   color: #124f58;
   background: #ffffff;
+  font-size: 0.78rem;
   font-weight: 700;
   transition: background 140ms ease, border-color 140ms ease, color 140ms ease, box-shadow 140ms ease;
 }
@@ -676,7 +677,7 @@
 
 .publication-year-section .list__item {
   margin-bottom: 0.85rem;
-  padding: 0.9rem 1rem;
+  padding: 0.82rem 0.95rem;
   border: 1px solid #e0e8e5;
   border-left: 4px solid #c7e4df;
   border-radius: 8px;
@@ -691,13 +692,38 @@
 }
 
 .publication-year-section .archive__item-title {
-  margin-top: 0;
+  margin: 0 0 0.25rem;
+  font-size: 0.9rem;
+  line-height: 1.38;
+}
+
+.publication-year-section .archive__item-title a {
+  color: #1c4f86;
+  text-decoration: none;
+}
+
+.publication-year-section .archive__item-title a:hover {
+  text-decoration: underline;
 }
 
 .publication-meta {
-  margin-bottom: 0.65rem;
+  margin: 0 0 0.45rem;
   color: #5d6864;
-  font-size: 0.86rem;
+  font-size: 0.76rem;
+  line-height: 1.42;
+}
+
+.publication-year-section .archive__item-excerpt,
+.publication-year-section .archive__item p:not(.publication-meta) {
+  margin: 0.18rem 0 0;
+  color: #3d4a4f;
+  font-size: 0.76rem;
+  line-height: 1.48;
+}
+
+.publication-year-section .archive__item p a {
+  color: #1c4f86;
+  font-weight: 650;
 }
 
 .page__content > h1:first-child {
