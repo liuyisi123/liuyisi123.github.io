@@ -20,6 +20,9 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Install crawler dependencies
+        run: pip install -r scripts/requirements-scholar.txt
+
       - name: Refresh metrics
         run: python scripts/update_scholar_metrics.py
 
@@ -27,4 +30,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update Google Scholar metrics"
-          file_pattern: assets/data/scholar-metrics.json
+          file_pattern: google-scholar-stats/gs_data.json assets/data/scholar-metrics.json

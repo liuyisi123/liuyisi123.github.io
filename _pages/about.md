@@ -8,7 +8,7 @@ redirect_from:
   - /main.html
 ---
 
-# 👨‍🔬 About Me
+# 🧭 About Me
 
 <div class="about-summary" markdown="1">
 
@@ -20,8 +20,7 @@ To date, I have published research papers as first author, co-first author, or c
 
 </div>
 
-<div class="scholar-profile" data-metrics-src="/assets/data/scholar-metrics.json">
-  <a class="scholar-link" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar Profile: <strong><span data-scholar-profile-citations>400+</span> citations</strong></a>
+<div class="scholar-profile" data-metrics-src="/google-scholar-stats/gs_data.json">
   <div class="scholar-badges" aria-label="Google Scholar metrics">
     <a class="scholar-badge scholar-badge--citations" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-citations>Citations: 400+</a>
     <a class="scholar-badge scholar-badge--hindex" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-hindex>h-index: 10</a>
@@ -39,14 +38,15 @@ To date, I have published research papers as first author, co-first author, or c
       .then(function (metrics) {
         if (!metrics) return;
         var citations = container.querySelector('[data-scholar-citations]');
-        var profileCitations = container.querySelector('[data-scholar-profile-citations]');
         var hindex = container.querySelector('[data-scholar-hindex]');
         var i10 = container.querySelector('[data-scholar-i10]');
-        if (profileCitations && metrics.citations) profileCitations.textContent = metrics.citations;
-        if (citations && metrics.citations) citations.textContent = 'Citations: ' + metrics.citations;
-        if (hindex && metrics.hIndex) hindex.textContent = 'h-index: ' + metrics.hIndex;
-        if (i10 && metrics.i10Index) {
-          i10.textContent = 'i10-index: ' + metrics.i10Index;
+        var citedby = metrics.citedby || metrics.citations;
+        var hIndexValue = metrics.hindex || metrics.hIndex;
+        var i10Value = metrics.i10index || metrics.i10Index;
+        if (citations && citedby) citations.textContent = 'Citations: ' + citedby;
+        if (hindex && hIndexValue) hindex.textContent = 'h-index: ' + hIndexValue;
+        if (i10 && i10Value) {
+          i10.textContent = 'i10-index: ' + i10Value;
           i10.hidden = false;
         }
       })
