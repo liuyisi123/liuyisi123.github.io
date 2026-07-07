@@ -10,14 +10,20 @@ redirect_from:
 
 <div class="profile-hero">
     <p class="profile-kicker">AI Healthcare Research · Wearable Sensing · Edge Intelligence</p>
-    <h1>Welcome to My Personal Research Hub!</h1>
-    <p>Hi, I'm Jian Liu, a Postdoctoral Fellow at <strong>The Chinese University of Hong Kong</strong>. My research focuses on general artificial intelligence, wearable electronics, large language model applications, model compression, and edge computing. I work on intelligent sensing systems and efficient AI methods for real-world healthcare and distributed IoT scenarios.</p>
+    <h1>Jian Liu</h1>
+    <p class="profile-title">Postdoctoral Fellow · The Chinese University of Hong Kong</p>
+    <p>Hi, welcome to my personal research hub! My research focuses on general artificial intelligence, wearable electronics, large language model applications, model compression, and edge computing. I work on intelligent sensing systems and efficient AI methods for real-world healthcare and distributed IoT scenarios.</p>
     <div class="profile-badges" aria-label="Research keywords">
         <span>General AI</span>
         <span>Wearable Electronics</span>
         <span>LLM Applications</span>
         <span>Model Compression</span>
         <span>Edge Computing</span>
+    </div>
+    <div class="profile-actions" aria-label="Profile links">
+        <a href="mailto:jianliu@cuhk.edu.hk">Email</a>
+        <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar</a>
+        <a href="/publications/">Publications</a>
     </div>
     <div class="scholar-metrics" aria-label="Google Scholar metrics">
         <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar Profile</a>
@@ -28,18 +34,22 @@ redirect_from:
     </div>
 </div>
 
----
+<nav class="homepage-nav" aria-label="Homepage sections">
+  <a href="#current-position">Position</a>
+  <a href="#education">Education</a>
+  <a href="#research-focus">Research</a>
+  <a href="#selected-publications">Publications</a>
+  <a href="#recent-news">News</a>
+  <a href="#awards-honors">Awards</a>
+  <a href="#contact-information">Contact</a>
+</nav>
 
-## 💼 Current Position
----
+<h2 id="current-position">💼 Current Position</h2>
 
 - **Postdoctoral Fellow**  
   *The Chinese University of Hong Kong*, 2026 - Present
 
----
-
-## 🧑‍🎓 Education
----
+<h2 id="education">🧑‍🎓 Education</h2>
 
 - **Ph.D. in Electronic Information**  
   *Fudan University*, Sep. 2022 - Dec. 2025  
@@ -53,72 +63,78 @@ redirect_from:
   *Yanshan University*, Sep. 2015 - Jun. 2019  
   Advisor: Prof. Yantao Zhao
 
----
-
-## 🔬 Research Interests
----
+<h2 id="research-interests">🔬 Research Interests</h2>
 
 General artificial intelligence, wearable electronics, large language model applications, model compression, edge computing, intelligent physiological sensing, and efficient AI systems.
 
----
-
-## Research Focus
----
+<h2 id="research-focus">Research Focus</h2>
 
 <div class="research-focus-grid">
   <div>
+    <span>01</span>
     <strong>Medical AI & Foundation Models</strong>
     <p>Designing specialist and multi-agent AI paradigms for medical decision support, physiological signal understanding, and clinically grounded intelligence.</p>
   </div>
   <div>
+    <span>02</span>
     <strong>Wearable Physiological Sensing</strong>
     <p>Developing robust sensing and signal analysis methods for blood pressure inference, sleep apnea assessment, and hemodynamic monitoring.</p>
   </div>
   <div>
+    <span>03</span>
     <strong>Edge Intelligence for Healthcare IoT</strong>
     <p>Building efficient cloud-edge collaborative systems that balance real-time inference, model compression, and deployable healthcare performance.</p>
   </div>
 </div>
 
----
+<h2 id="selected-publications">⭐ Selected Publications</h2>
 
-## ⭐ Selected Publications
----
+<p class="section-note">Representative works are grouped by research direction, following the clearer academic-homepage style of highlighting venue, authors, and the main contribution.</p>
 
-<div class="selected-publications">
-  <a href="/publication/2026-07-01_icml-specialist-models">
-    <span>ICML 2026</span>
-    <strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong>
-    <ul>
-      <li>Studies why specialist medical models remain valuable alongside general-purpose AI systems.</li>
-      <li>Introduces a heterogeneous multi-agent paradigm for clinically oriented medical intelligence.</li>
-    </ul>
-    <em>Medical AI · Multi-agent systems</em>
-  </a>
-  <a href="/publication/2026-05-01_edge-intelligent-abp">
-    <span>Expert Systems with Applications 2026</span>
-    <strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference</strong>
-    <ul>
-      <li>Builds a cross-platform architecture for distributed healthcare IoT and ABP inference.</li>
-      <li>Connects knowledge-intensive modeling with deployable edge-intelligent physiological monitoring.</li>
-    </ul>
-    <em>Edge AI · Blood pressure inference</em>
-  </a>
-  <a href="/publication/2025-08-14_transparent-ai-sleep">
-    <span>Nature Communications 2025</span>
-    <strong>Transparent AI-enabled Interpretable and Interactive Sleep Apnea Assessment</strong>
-    <ul>
-      <li>Supports interpretable and interactive sleep apnea assessment across flexible monitoring scenarios.</li>
-      <li>Highlights transparent AI for clinically meaningful multimodal sleep analysis.</li>
-    </ul>
-    <em>Interpretable AI · Sleep apnea</em>
-  </a>
+<div class="publication-clusters">
+  <section class="publication-cluster">
+    <div class="cluster-heading">
+      <span>01</span>
+      <h3>Medical AI & Foundation Models</h3>
+    </div>
+    <a class="featured-paper" href="/publication/2026-07-01_icml-specialist-models">
+      <div class="paper-meta"><span>ICML 2026</span><span>Medical AI</span></div>
+      <strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong>
+      <p class="paper-authors">Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Guohui Zhou, Aiguo Wang, and Cuiwei Yang.</p>
+      <p>Studies why specialist medical models remain valuable alongside general-purpose AI systems and introduces a heterogeneous multi-agent paradigm for clinically oriented intelligence.</p>
+    </a>
+  </section>
+
+  <section class="publication-cluster">
+    <div class="cluster-heading">
+      <span>02</span>
+      <h3>Edge Intelligence & Physiological Monitoring</h3>
+    </div>
+    <a class="featured-paper" href="/publication/2026-05-01_edge-intelligent-abp">
+      <div class="paper-meta"><span>Expert Systems with Applications 2026</span><span>Edge AI</span></div>
+      <strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</strong>
+      <p class="paper-authors"><b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Wei Xiang, and Cuiwei Yang.</p>
+      <p>Builds a cross-platform architecture that connects knowledge-intensive modeling with deployable edge-intelligent arterial blood pressure inference.</p>
+    </a>
+  </section>
+
+  <section class="publication-cluster">
+    <div class="cluster-heading">
+      <span>03</span>
+      <h3>Transparent Healthcare AI</h3>
+    </div>
+    <a class="featured-paper" href="/publication/2025-08-14_transparent-ai-sleep">
+      <div class="paper-meta"><span>Nature Communications 2025</span><span>Sleep Apnea</span></div>
+      <strong>Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios</strong>
+      <p class="paper-authors">Shuaicong Hu, <b>Jian Liu</b>, Yanan Wang, Cong Fu, Jichu Zhu, Huan Yu, and Cuiwei Yang.</p>
+      <p>Develops transparent AI methods for interpretable and interactive sleep apnea assessment across flexible monitoring scenarios.</p>
+    </a>
+  </section>
 </div>
 
----
+<p class="publication-cta"><a href="/publications/">View all publications by year</a></p>
 
-## 🔗 Resources
----
+<h2 id="resources">🔗 Resources</h2>
 
 <div class="resource-grid">
   <a class="resource-card" href="https://github.com/liuyisi123/LSMOE">
@@ -135,19 +151,13 @@ General artificial intelligence, wearable electronics, large language model appl
   </a>
 </div>
 
----
-
-## 📚 Teaching Experience
----
+<h2 id="teaching-experience">📚 Teaching Experience</h2>
 
 I assisted with the following course:
 
 - **Autumn 2023**: *Medical Electronic Instrumentation*, chaired by Prof. Cuiwei Yang.
 
----
-
-## 📢 Recent News
----
+<h2 id="recent-news">📢 Recent News</h2>
 
 <div class="news-timeline">
   <div><time>2026</time><p>I started as a Postdoctoral Fellow at <em>The Chinese University of Hong Kong</em>.</p></div>
@@ -177,10 +187,7 @@ I assisted with the following course:
   </ul>
 </details>
 
----
-
-## Awards & Honors
----
+<h2 id="awards-honors">Awards & Honors</h2>
 
 <div class="awards-list">
   <div><time>2025</time><p><strong>Fudan University Titled Scholarship</strong> (sole recipient in school).</p></div>
@@ -194,14 +201,9 @@ I assisted with the following course:
   <div><time>2016-2018</time><p><strong>Outstanding Student / Class Leader</strong>, Yanshan University.</p></div>
 </div>
 
----
-
-## 📫 Contact Information
----
+<h2 id="contact-information">📫 Contact Information</h2>
 
 You can reach me via email or by visiting my office:
 
 - **Email**: [jianliu@cuhk.edu.hk](mailto:jianliu@cuhk.edu.hk)
 - **Address**: The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China
-
----
