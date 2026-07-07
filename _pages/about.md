@@ -22,9 +22,9 @@ To date, I have published research papers as first author, co-first author, or c
 
 <div class="scholar-profile" data-metrics-src="/google-scholar-stats/gs_data.json">
   <div class="scholar-badges" aria-label="Google Scholar metrics">
-    <a class="scholar-badge scholar-badge--citations" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-citations>Citations: 400+</a>
-    <a class="scholar-badge scholar-badge--hindex" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-hindex>h-index: 10</a>
-    <a class="scholar-badge scholar-badge--i10" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-i10 hidden>i10-index: </a>
+    <a class="scholar-badge scholar-badge--citations" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-citations>Citations: loading</a>
+    <a class="scholar-badge scholar-badge--hindex" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-hindex>h-index: loading</a>
+    <a class="scholar-badge scholar-badge--i10" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-i10 hidden>i10-index: loading</a>
   </div>
 </div>
 

@@ -12,12 +12,16 @@ from pathlib import Path
 
 try:
     import requests
-    from bs4 import BeautifulSoup
-except ImportError:  # Local fallback; GitHub Actions installs these packages.
+except ImportError:  # Local fallback; GitHub Actions installs this package, but keep urllib usable.
     requests = None
+
+try:
+    from bs4 import BeautifulSoup
+except ImportError:
     BeautifulSoup = None
-    import urllib.error
-    import urllib.request
+
+import urllib.error
+import urllib.request
 
 REQUEST_ERRORS = (OSError,) if requests is None else (OSError, requests.RequestException)
 REFRESH_ERRORS = (RuntimeError, TimeoutError, ValueError) + REQUEST_ERRORS
@@ -85,10 +89,11 @@ def parse_metrics(html: str) -> dict[str, int | str]:
     else:
         name_match = re.search(r'<div id="gsc_prf_in">([^<]+)</div>', html)
         rows = re.findall(
-            r"<td class=\"gsc_rsb_sc1\">(Citations|h-index|i10-index)</td>\s*"
-            r"<td class=\"gsc_rsb_std\">([^<]+)</td>",
+            r'<td[^>]*class="gsc_rsb_sc1"[^>]*>.*?'
+            r"(Citations|h-index|i10-index).*?</td>\s*"
+            r'<td[^>]*class="gsc_rsb_std"[^>]*>([^<]+)</td>',
             html,
-            flags=re.IGNORECASE,
+            flags=re.IGNORECASE | re.DOTALL,
         )
         for label, value in rows:
             digits = re.sub(r"[^\d]", "", value)
