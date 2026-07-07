@@ -13,7 +13,7 @@ from pathlib import Path
 
 SCHOLAR_URL = "https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en"
 OUTPUT = Path("assets/data/scholar-metrics.json")
-FALLBACK = {"citations": "400+", "hIndex": "10"}
+FALLBACK = {"citations": "400+", "hIndex": "10", "i10Index": ""}
 
 
 def fetch_profile() -> str:
@@ -32,7 +32,7 @@ def fetch_profile() -> str:
 
 def parse_metrics(html: str) -> dict[str, str]:
     rows = re.findall(
-        r"<td class=\"gsc_rsb_sc1\">(Citations|h-index)</td>\s*"
+        r"<td class=\"gsc_rsb_sc1\">(Citations|h-index|i10-index)</td>\s*"
         r"<td class=\"gsc_rsb_std\">([^<]+)</td>",
         html,
         flags=re.IGNORECASE,
@@ -46,6 +46,8 @@ def parse_metrics(html: str) -> dict[str, str]:
             metrics["citations"] = value
         elif label.lower() == "h-index":
             metrics["hIndex"] = value
+        elif label.lower() == "i10-index":
+            metrics["i10Index"] = value
     return metrics
 
 
@@ -58,6 +60,7 @@ def read_existing() -> dict[str, str]:
         return {
             "citations": str(data.get("citations") or FALLBACK["citations"]),
             "hIndex": str(data.get("hIndex") or FALLBACK["hIndex"]),
+            "i10Index": str(data.get("i10Index") or FALLBACK["i10Index"]),
         }
     except (OSError, json.JSONDecodeError):
         return FALLBACK.copy()
@@ -74,6 +77,7 @@ def main() -> int:
     output = {
         "citations": metrics.get("citations") or existing["citations"],
         "hIndex": metrics.get("hIndex") or existing["hIndex"],
+        "i10Index": metrics.get("i10Index") or existing["i10Index"],
     }
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)

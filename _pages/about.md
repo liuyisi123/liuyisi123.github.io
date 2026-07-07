@@ -8,23 +8,24 @@ redirect_from:
   - /main.html
 ---
 
-# 🧑‍🎓 About Me
+# 👨‍🔬 About Me
 
 <div class="about-summary" markdown="1">
 
-I am a Postdoctoral Fellow at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). Before joining CUHK, I received my Ph.D. degree in Electronic Information from Fudan University in 2025, advised by Prof. Cuiwei Yang. I received my M.S. degree from Southeast University in 2022 and my B.S. degree from Yanshan University in 2019.
+I am a Postdoctoral Fellow at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). I received my Ph.D. degree in Electronic Information from [Fudan University](https://www.fudan.edu.cn/) in 2025, advised by Prof. Cuiwei Yang. Before that, I received my M.S. degree from Southeast University in 2022 and my B.S. degree from Yanshan University in 2019.
 
-My research focuses on general medical AI, wearable physiological sensing, edge intelligence, model compression, and deployable healthcare systems. I am especially interested in building robust and interpretable AI methods that can move from curated datasets to real-world physiological monitoring and distributed IoT scenarios.
+My research focuses on **general medical AI**, **wearable physiological intelligence**, **multimodal physiological signal modeling**, **edge intelligence**, and **deployable healthcare systems**. I am especially interested in building robust, interpretable, and efficient AI methods that can move from curated datasets to real-world physiological monitoring, clinical decision support, and distributed healthcare IoT scenarios.
 
-My papers have appeared in venues and journals including ICML, Nature Communications, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, Information Fusion, and Expert Systems with Applications.
+To date, I have published research papers as first author, co-first author, or co-author in venues and journals such as **ICML**, **Nature Communications**, **Information Fusion**, **Expert Systems with Applications**, **IEEE Journal of Biomedical and Health Informatics**, **IEEE Internet of Things Journal**, and **IEEE Transactions on Instrumentation and Measurement**. My recent work bridges foundation-model-style medical AI, physiological signal representation learning, and edge-deployable wearable healthcare systems.
 
 </div>
 
 <div class="scholar-profile" data-metrics-src="/assets/data/scholar-metrics.json">
-  <a class="scholar-link" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar</a>
+  <a class="scholar-link" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar Profile: <strong><span data-scholar-profile-citations>400+</span> citations</strong></a>
   <div class="scholar-badges" aria-label="Google Scholar metrics">
     <a class="scholar-badge scholar-badge--citations" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-citations>Citations: 400+</a>
     <a class="scholar-badge scholar-badge--hindex" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-hindex>h-index: 10</a>
+    <a class="scholar-badge scholar-badge--i10" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-i10 hidden>i10-index: </a>
   </div>
 </div>
 
@@ -38,9 +39,16 @@ My papers have appeared in venues and journals including ICML, Nature Communicat
       .then(function (metrics) {
         if (!metrics) return;
         var citations = container.querySelector('[data-scholar-citations]');
+        var profileCitations = container.querySelector('[data-scholar-profile-citations]');
         var hindex = container.querySelector('[data-scholar-hindex]');
+        var i10 = container.querySelector('[data-scholar-i10]');
+        if (profileCitations && metrics.citations) profileCitations.textContent = metrics.citations;
         if (citations && metrics.citations) citations.textContent = 'Citations: ' + metrics.citations;
         if (hindex && metrics.hIndex) hindex.textContent = 'h-index: ' + metrics.hIndex;
+        if (i10 && metrics.i10Index) {
+          i10.textContent = 'i10-index: ' + metrics.i10Index;
+          i10.hidden = false;
+        }
       })
       .catch(function () {});
   });
@@ -56,7 +64,7 @@ My papers have appeared in venues and journals including ICML, Nature Communicat
   <a href="#contact-information">Contact</a>
 </nav>
 
-## 🧑‍🎓 Education
+## 🎓 Education
 
 <div class="education-timeline">
   <div>
@@ -82,7 +90,7 @@ My papers have appeared in venues and journals including ICML, Nature Communicat
   <span>Edge intelligence, model compression, and healthcare IoT deployment</span>
 </div>
 
-## 📢 News
+## 📰 News
 
 - **Jul. 2026**: 🎉🎉🎉 Our work *Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence* was accepted by *ICML 2026*.
 - **Jun. 2026**: 🎉🎉🎉 *Thinking like Clinicians: Ranking-based Multi-instance Learning for PPG-based Hemodynamic Fluctuation Detection* was published in *Pattern Recognition*.
@@ -108,7 +116,7 @@ My papers have appeared in venues and journals including ICML, Nature Communicat
   </ul>
 </details>
 
-## 🏆 Awards & Honors
+## 🏅 Awards & Honors
 
 <div class="awards-list">
   <div><time>2025</time><p>Fudan University Titled Scholarship, sole recipient in school.</p></div>
@@ -122,7 +130,7 @@ My papers have appeared in venues and journals including ICML, Nature Communicat
   <div><time>2016-2018</time><p>Outstanding Student / Class Leader, Yanshan University.</p></div>
 </div>
 
-## ⭐ Selected Publications
+## 📘 Selected Publications
 
 <div class="publication-theme">
   <h3>General Medical AI and Interpretable Healthcare</h3>
@@ -131,7 +139,7 @@ My papers have appeared in venues and journals including ICML, Nature Communicat
     <div class="paper-box-image">
       <a href="/publication/2026-07-01_icml-specialist-models">
         <span class="venue-badge">ICML 2026</span>
-        <div class="paper-visual paper-visual--ai">Medical AI</div>
+        <img src="/images/icml-specialist-models-fig1.png" alt="HetMedAgent heterogeneous multi-agent medical AI framework">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
@@ -148,7 +156,7 @@ Yanan Wang, Shuaicong Hu, **Jian Liu**, Guohui Zhou, Aiguo Wang, and Cuiwei Yang
     <div class="paper-box-image">
       <a href="/publication/2025-08-14_transparent-ai-sleep">
         <span class="venue-badge">Nat. Commun. 2025</span>
-        <div class="paper-visual paper-visual--sleep">Transparent AI</div>
+        <img src="/images/NN-1.jpg" alt="Transparent AI and multimodal sleep analysis framework">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
@@ -163,30 +171,30 @@ Shuaicong Hu, **Jian Liu**, Yanan Wang, Cong Fu, Jichu Zhu, Huan Yu, and Cuiwei 
 
   <div class="paper-box">
     <div class="paper-box-image">
-      <a href="/publication/2025-04-01_xsleepfusion">
-        <span class="venue-badge">Inf. Fusion 2025</span>
-        <div class="paper-visual paper-visual--fusion">Fusion</div>
+      <a href="/publication/2025-2-21_articles">
+        <span class="venue-badge">ESWA 2025</span>
+        <img src="/images/ESWA.jpg" alt="LEAF-Net physiological signal quality assessment">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
 
-[**XSleepFusion: A Dual-stage Information Bottleneck Fusion Framework for Interpretable Multimodal Sleep Analysis**](/publication/2025-04-01_xsleepfusion)<br>
-Shuaicong Hu, Yanan Wang, **Jian Liu**, and Cuiwei Yang.<br>
-*Information Fusion, 2025.*
+[**LEAF-Net: A Real-Time Fine-Grained Quality Assessment System for Physiological Signals Using Lightweight Evolutionary Attention Fusion**](/publication/2025-2-21_articles)<br>
+**Jian Liu**, Shuaicong Hu, Yanan Wang, Qihan Hu, Daomiao Wang, Wei Xiang, Xujian Feng, and Cuiwei Yang.<br>
+*Expert Systems with Applications, 2025.*
 
-- Uses information bottleneck fusion to improve interpretable multimodal sleep analysis.
+- Builds a lightweight real-time system for fine-grained physiological signal quality assessment.
 </div>
   </div>
 </div>
 
 <div class="publication-theme">
-  <h3>Physiological Signal Foundation and Representation Learning</h3>
+  <h3>Physiological Signal Representation and Multimodal Learning</h3>
 
   <div class="paper-box">
     <div class="paper-box-image">
       <a href="/publication/2026-05-01_bridging">
         <span class="venue-badge">Inf. Fusion 2026</span>
-        <div class="paper-visual paper-visual--signal">Bioelectrical AI</div>
+        <img src="/images/FACT-Net.png" alt="Bioelectrical signal analysis and representation learning architecture">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
@@ -218,18 +226,18 @@ Qihan Hu, Daomiao Wang, Hong Wu, **Jian Liu**, and Cuiwei Yang.<br>
 
   <div class="paper-box">
     <div class="paper-box-image">
-      <a href="/publication/2025-2-21_articles">
-        <span class="venue-badge">ESWA 2025</span>
-        <img src="/images/ESWA.jpg" alt="LEAF-Net physiological signal quality assessment">
+      <a href="/publication/2024-10-23_articles">
+        <span class="venue-badge">ASOC 2024</span>
+        <img src="/images/ASOC.jpg" alt="Personalized multiview physiological signal fusion and transfer learning">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
 
-[**LEAF-Net: A Real-Time Fine-Grained Quality Assessment System for Physiological Signals Using Lightweight Evolutionary Attention Fusion**](/publication/2025-2-21_articles)<br>
-**Jian Liu**, Shuaicong Hu, Yanan Wang, Qihan Hu, Daomiao Wang, Wei Xiang, Xujian Feng, and Cuiwei Yang.<br>
-*Expert Systems with Applications, 2025.*
+[**Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning**](/publication/2024-10-23_articles)<br>
+**Jian Liu**, Shuaicong Hu, Yanan Wang, Wei Xiang, Qihan Hu, and Cuiwei Yang.<br>
+*Applied Soft Computing, 2024.*
 
-- Builds a lightweight real-time system for fine-grained physiological signal quality assessment.
+- Studies personalized multiview physiological signal fusion and transfer learning for adaptive healthcare modeling.
 </div>
   </div>
 </div>
@@ -273,18 +281,18 @@ Qihan Hu, Daomiao Wang, Hong Wu, **Jian Liu**, and Cuiwei Yang.<br>
 
   <div class="paper-box">
     <div class="paper-box-image">
-      <a href="/publication/2026-02-01_wearable-bp">
-        <span class="venue-badge">EAAI 2026</span>
-        <img src="/images/Fig.1.jpg" alt="Wearable blood pressure monitoring system">
+      <a href="/publication/2024-10-14_articles">
+        <span class="venue-badge">IEEE IoT-J 2025</span>
+        <img src="/images/CPMP-IoT.png" alt="IoMT-driven precision cardiovascular assessment framework">
       </a>
     </div>
     <div class="paper-box-text" markdown="1">
 
-[**An Ultra-Efficient Edge-Based Wearable System for Real-Time and Remote Blood Pressure Monitoring**](/publication/2026-02-01_wearable-bp)<br>
-Wei Xiang, **Jian Liu**, Shuaicong Hu, HaiHui Zhang, Chao Huang, and Cuiwei Yang.<br>
-*Engineering Applications of Artificial Intelligence, 2026.*
+[**An IoMT-Driven Framework for Precision Cardiovascular Assessment Incorporating Multiscale Perspectives and Microfiber Bragg Grating**](/publication/2024-10-14_articles)<br>
+**Jian Liu**, Hengtian Zhu, Wei Xiang, Shuaicong Hu, Qihan Hu, Daomiao Wang, Huan Yang, Zhengyi Mao, Fei Xu, and Cuiwei Yang.<br>
+*IEEE Internet of Things Journal, 2025.*
 
-- Presents an efficient wearable and edge-based system for real-time remote monitoring.
+- Integrates wearable sensing, multiscale cardiovascular assessment, and IoMT deployment for precision monitoring.
 </div>
   </div>
 </div>
