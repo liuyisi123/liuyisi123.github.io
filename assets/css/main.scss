@@ -675,6 +675,54 @@
   font-size: 0.86rem;
 }
 
+.paper-group {
+  margin: 1.1rem 0 1.35rem;
+  padding-top: 0.35rem;
+  border-top: 1px solid #e2e8ea;
+}
+
+.paper-group h3 {
+  margin: 0.35rem 0 0.65rem;
+  color: #215f8f;
+  font-size: 1rem;
+}
+
+.paper-item {
+  margin: 0.65rem 0;
+  padding-left: 0.8rem;
+  border-left: 3px solid #d8e4ea;
+}
+
+.paper-item p {
+  margin: 0;
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.paper-item strong {
+  color: #2f3336;
+}
+
+.paper-item em {
+  color: #5f666b;
+  font-style: italic;
+}
+
+.simple-details {
+  margin: 0.5rem 0 1.25rem;
+  padding: 0.2rem 0 0;
+}
+
+.simple-details summary {
+  cursor: pointer;
+  color: #215f8f;
+  font-weight: 700;
+}
+
+.simple-details ul {
+  margin-top: 0.65rem;
+}
+
 @media (max-width: 520px) {
   .profile-hero {
     padding: 1.25rem 1.1rem;
