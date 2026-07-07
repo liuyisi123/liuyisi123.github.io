@@ -8,16 +8,20 @@ redirect_from:
   - /main.html
 ---
 
-## About Me
-
 I am a Postdoctoral Fellow at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). Before joining CUHK, I received my Ph.D. degree in Electronic Information from Fudan University in 2025, advised by Prof. Cuiwei Yang. I received my M.S. degree from Southeast University in 2022 and my B.S. degree from Yanshan University in 2019.
 
 My research interests include general artificial intelligence, wearable electronics, large language model applications, model compression, edge computing, and intelligent physiological sensing. My recent work focuses on medical AI, wearable physiological monitoring, and efficient AI systems for healthcare and distributed IoT scenarios.
 
 My papers have appeared in venues and journals such as ICML, Nature Communications, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, Information Fusion, and Expert Systems with Applications.
 
-<div class="scholar-line">
-  <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar</a>: <strong>Citations: 400+</strong> · <strong>h-index: 10</strong>
+<div class="scholar-profile">
+  <div class="scholar-profile-link">
+    <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar Profile: 400+ citations</a>
+  </div>
+  <div class="scholar-badges" aria-label="Google Scholar metrics">
+    <span class="scholar-badge scholar-badge--citations">Citations: 400+</span>
+    <span class="scholar-badge scholar-badge--hindex">h-index: 10</span>
+  </div>
 </div>
 
 ## 🧑‍🎓 Education
