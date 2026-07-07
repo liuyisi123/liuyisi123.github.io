@@ -14,7 +14,24 @@ I am a Postdoctoral Fellow at [The Chinese University of Hong Kong](https://www.
 
 My research interests include general artificial intelligence, wearable electronics, large language model applications, model compression, edge computing, and intelligent physiological sensing. My recent work focuses on medical AI, wearable physiological monitoring, and efficient AI systems for healthcare and distributed IoT scenarios.
 
-My papers have appeared in venues and journals such as ICML, Nature Communications, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, Information Fusion, and Expert Systems with Applications. You can find more details from my [Google Scholar profile](https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en) (Citations: 400+, h-index: 10).
+My papers have appeared in venues and journals such as ICML, Nature Communications, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, Information Fusion, and Expert Systems with Applications.
+
+<div class="scholar-line">
+  <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar</a>: <strong>Citations: 400+</strong> · <strong>h-index: 10</strong>
+</div>
+
+## 🧑‍🎓 Education
+
+- **Ph.D. in Electronic Information**, Fudan University, Sep. 2022 - Dec. 2025. Advisor: Prof. Cuiwei Yang.
+- **M.S. in Instrumentation Science and Technology**, Southeast University, Sep. 2019 - Jun. 2022. Advisors: Prof. Chengyu Liu and Prof. Alan Murray.
+- **B.S. in Measurement and Control Technology and Instrumentation**, Yanshan University, Sep. 2015 - Jun. 2019. Advisor: Prof. Yantao Zhao.
+
+## 🔬 Research Interests
+
+- Wearable physiological sensing and quality assessment for real-world healthcare monitoring.
+- Cuffless blood pressure estimation, hemodynamic parameter analysis, and sleep-related physiological computing.
+- Edge intelligence and model compression for deployable healthcare IoT systems.
+- Medical AI, large language model applications, and interpretable decision-support systems.
 
 ## 📢 News
 
@@ -42,38 +59,10 @@ My papers have appeared in venues and journals such as ICML, Nature Communicatio
   </ul>
 </details>
 
-## ⭐ Selected Publications
+## ⭐ Selected First-Author Publications
 
 <div class="paper-group">
-  <h3>Medical AI and Transparent Healthcare Intelligence</h3>
-  <div class="paper-item">
-    <p><a href="/publication/2026-07-01_icml-specialist-models"><strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong></a><br>
-    Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Guohui Zhou, Aiguo Wang, and Cuiwei Yang.<br>
-    <em>International Conference on Machine Learning (ICML), 2026.</em></p>
-  </div>
-  <div class="paper-item">
-    <p><a href="/publication/2025-08-14_transparent-ai-sleep"><strong>Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios</strong></a><br>
-    Shuaicong Hu, <b>Jian Liu</b>, Yanan Wang, Cong Fu, Jichu Zhu, Huan Yu, and Cuiwei Yang.<br>
-    <em>Nature Communications, 2025.</em></p>
-  </div>
-</div>
-
-<div class="paper-group">
-  <h3>Wearable Physiological Sensing</h3>
-  <div class="paper-item">
-    <p><a href="/publication/2026-01-01_pretrained-transformer-physiology"><strong>Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals</strong></a><br>
-    Qihan Hu, Daomiao Wang, Hong Wu, <b>Jian Liu</b>, and Cuiwei Yang.<br>
-    <em>IEEE Journal of Biomedical and Health Informatics, 2026.</em></p>
-  </div>
-  <div class="paper-item">
-    <p><a href="/publication/2025-03-01_pulse"><strong>PULSE: A Personalized Physiological Signal Analysis Framework via Unsupervised Domain Adaptation and Self-Adaptive Learning</strong></a><br>
-    Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Aiguo Wang, Guohui Zhou, and Cuiwei Yang.<br>
-    <em>Expert Systems with Applications, 2025.</em></p>
-  </div>
-</div>
-
-<div class="paper-group">
-  <h3>Edge Intelligence for Healthcare IoT</h3>
+  <h3>Edge Intelligence and Hemodynamic Monitoring</h3>
   <div class="paper-item">
     <p><a href="/publication/2026-05-01_edge-intelligent-abp"><strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</strong></a><br>
     <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Wei Xiang, and Cuiwei Yang.<br>
@@ -86,13 +75,30 @@ My papers have appeared in venues and journals such as ICML, Nature Communicatio
   </div>
 </div>
 
-[Full publication list](/publications/)
+<div class="paper-group">
+  <h3>Wearable Physiological Sensing and Signal Quality</h3>
+  <div class="paper-item">
+    <p><a href="/publication/2025-2-21_articles"><strong>LEAF-Net: A Real-Time Fine-Grained Quality Assessment System for Physiological Signals Using Lightweight Evolutionary Attention Fusion</strong></a><br>
+    <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Qihan Hu, Daomiao Wang, Wei Xiang, Xujian Feng, and Cuiwei Yang.<br>
+    <em>Expert Systems with Applications, 2025.</em></p>
+  </div>
+  <div class="paper-item">
+    <p><a href="/publication/2025-07-01_vam"><strong>VAM: A Parallel Cross-Modal Hybrid Network for Accurate and Interpretable Vascular Age Estimation from PPG</strong></a><br>
+    <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, and Cuiwei Yang.<br>
+    <em>EMBC, 2025.</em></p>
+  </div>
+</div>
 
-## 🧑‍🎓 Education
+<div class="paper-group">
+  <h3>Blood Pressure Analysis</h3>
+  <div class="paper-item">
+    <p><a href="/publication/2022-01-01_gaussian-fitting-bp"><strong>A Gaussian-Fitting-Optimized Algorithm for Blood Pressure Determination</strong></a><br>
+    <b>Jian Liu</b>, Yumin Li, Jianqing Li, and Chengyu Liu.<br>
+    <em>Biomedical Engineering Research, 2022.</em></p>
+  </div>
+</div>
 
-- **Ph.D. in Electronic Information**, Fudan University, Sep. 2022 - Dec. 2025. Advisor: Prof. Cuiwei Yang.
-- **M.S. in Instrumentation Science and Technology**, Southeast University, Sep. 2019 - Jun. 2022. Advisors: Prof. Chengyu Liu and Prof. Alan Murray.
-- **B.S. in Measurement and Control Technology and Instrumentation**, Yanshan University, Sep. 2015 - Jun. 2019. Advisor: Prof. Yantao Zhao.
+[Full publication list](/publications/) includes other representative collaborative works such as ICML 2026 and Nature Communications 2025.
 
 ## 🔗 Resources
 
