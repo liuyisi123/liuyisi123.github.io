@@ -8,21 +8,40 @@ redirect_from:
   - /main.html
 ---
 
+<div class="about-summary" markdown="1">
+
 I am a Postdoctoral Fellow at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). Before joining CUHK, I received my Ph.D. degree in Electronic Information from Fudan University in 2025, advised by Prof. Cuiwei Yang. I received my M.S. degree from Southeast University in 2022 and my B.S. degree from Yanshan University in 2019.
 
 My research interests include general artificial intelligence, wearable electronics, large language model applications, model compression, edge computing, and intelligent physiological sensing. My recent work focuses on medical AI, wearable physiological monitoring, and efficient AI systems for healthcare and distributed IoT scenarios.
 
 My papers have appeared in venues and journals such as ICML, Nature Communications, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Instrumentation and Measurement, IEEE Internet of Things Journal, Information Fusion, and Expert Systems with Applications.
 
-<div class="scholar-profile">
-  <div class="scholar-profile-link">
-    <a href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en">Google Scholar Profile: 400+ citations</a>
-  </div>
+</div>
+
+<div class="scholar-profile" data-metrics-src="/assets/data/scholar-metrics.json">
   <div class="scholar-badges" aria-label="Google Scholar metrics">
-    <span class="scholar-badge scholar-badge--citations">Citations: 400+</span>
-    <span class="scholar-badge scholar-badge--hindex">h-index: 10</span>
+    <a class="scholar-badge scholar-badge--citations" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-citations>Citations: 400+</a>
+    <a class="scholar-badge scholar-badge--hindex" href="https://scholar.google.com/citations?user=IU9omVgAAAAJ&hl=en" data-scholar-hindex>h-index: 10</a>
   </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var container = document.querySelector('.scholar-profile[data-metrics-src]');
+    if (!container || !window.fetch) return;
+
+    fetch(container.getAttribute('data-metrics-src'), { cache: 'no-store' })
+      .then(function (response) { return response.ok ? response.json() : null; })
+      .then(function (metrics) {
+        if (!metrics) return;
+        var citations = container.querySelector('[data-scholar-citations]');
+        var hindex = container.querySelector('[data-scholar-hindex]');
+        if (citations && metrics.citations) citations.textContent = 'Citations: ' + metrics.citations;
+        if (hindex && metrics.hIndex) hindex.textContent = 'h-index: ' + metrics.hIndex;
+      })
+      .catch(function () {});
+  });
+</script>
 
 ## 🧑‍🎓 Education
 
@@ -63,10 +82,48 @@ My papers have appeared in venues and journals such as ICML, Nature Communicatio
   </ul>
 </details>
 
-## ⭐ Selected First-Author Publications
+## ⭐ Selected Publications
 
 <div class="paper-group">
-  <h3>Edge Intelligence and Hemodynamic Monitoring</h3>
+  <h3>General Medical AI and Interpretable Healthcare</h3>
+  <div class="paper-item">
+    <p><a href="/publication/2026-07-01_icml-specialist-models"><strong>Why Specialist Models Still Matter: A Heterogeneous Multi-Agent Paradigm for Medical Artificial Intelligence</strong></a><br>
+    Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Guohui Zhou, Aiguo Wang, and Cuiwei Yang.<br>
+    <em>International Conference on Machine Learning (ICML), 2026.</em></p>
+  </div>
+  <div class="paper-item">
+    <p><a href="/publication/2025-08-14_transparent-ai-sleep"><strong>Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios</strong></a><br>
+    Shuaicong Hu, <b>Jian Liu</b>, Yanan Wang, Cong Fu, Jichu Zhu, Huan Yu, and Cuiwei Yang.<br>
+    <em>Nature Communications, 2025.</em></p>
+  </div>
+  <div class="paper-item">
+    <p><a href="/publication/2025-04-01_xsleepfusion"><strong>XSleepFusion: A Dual-stage Information Bottleneck Fusion Framework for Interpretable Multimodal Sleep Analysis</strong></a><br>
+    Shuaicong Hu, Yanan Wang, <b>Jian Liu</b>, and Cuiwei Yang.<br>
+    <em>Information Fusion, 2025.</em></p>
+  </div>
+</div>
+
+<div class="paper-group">
+  <h3>Physiological Signal Foundation and Representation Learning</h3>
+  <div class="paper-item">
+    <p><a href="/publication/2026-05-01_bridging"><strong>Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis</strong></a><br>
+    Yanan Wang, Shuaicong Hu, <b>Jian Liu</b>, Aiguo Wang, Guohui Zhou, and Cuiwei Yang.<br>
+    <em>Information Fusion, 2026.</em></p>
+  </div>
+  <div class="paper-item">
+    <p><a href="/publication/2026-01-01_pretrained-transformer-physiology"><strong>Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals</strong></a><br>
+    Qihan Hu, Daomiao Wang, Hong Wu, <b>Jian Liu</b>, and Cuiwei Yang.<br>
+    <em>IEEE Journal of Biomedical and Health Informatics, 2026.</em></p>
+  </div>
+  <div class="paper-item">
+    <p><a href="/publication/2025-2-21_articles"><strong>LEAF-Net: A Real-Time Fine-Grained Quality Assessment System for Physiological Signals Using Lightweight Evolutionary Attention Fusion</strong></a><br>
+    <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Qihan Hu, Daomiao Wang, Wei Xiang, Xujian Feng, and Cuiwei Yang.<br>
+    <em>Expert Systems with Applications, 2025.</em></p>
+  </div>
+</div>
+
+<div class="paper-group">
+  <h3>Edge Intelligence and Wearable Healthcare Systems</h3>
   <div class="paper-item">
     <p><a href="/publication/2026-05-01_edge-intelligent-abp"><strong>Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks</strong></a><br>
     <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Wei Xiang, and Cuiwei Yang.<br>
@@ -77,32 +134,14 @@ My papers have appeared in venues and journals such as ICML, Nature Communicatio
     <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Wei Xiang, and Cuiwei Yang.<br>
     <em>IEEE Internet of Things Journal, 2025.</em></p>
   </div>
-</div>
-
-<div class="paper-group">
-  <h3>Wearable Physiological Sensing and Signal Quality</h3>
   <div class="paper-item">
-    <p><a href="/publication/2025-2-21_articles"><strong>LEAF-Net: A Real-Time Fine-Grained Quality Assessment System for Physiological Signals Using Lightweight Evolutionary Attention Fusion</strong></a><br>
-    <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, Qihan Hu, Daomiao Wang, Wei Xiang, Xujian Feng, and Cuiwei Yang.<br>
-    <em>Expert Systems with Applications, 2025.</em></p>
-  </div>
-  <div class="paper-item">
-    <p><a href="/publication/2025-07-01_vam"><strong>VAM: A Parallel Cross-Modal Hybrid Network for Accurate and Interpretable Vascular Age Estimation from PPG</strong></a><br>
-    <b>Jian Liu</b>, Shuaicong Hu, Yanan Wang, and Cuiwei Yang.<br>
-    <em>EMBC, 2025.</em></p>
+    <p><a href="/publication/2026-02-01_wearable-bp"><strong>An Ultra-Efficient Edge-Based Wearable System for Real-Time and Remote Blood Pressure Monitoring</strong></a><br>
+    Wei Xiang, <b>Jian Liu</b>, Shuaicong Hu, HaiHui Zhang, Chao Huang, and Cuiwei Yang.<br>
+    <em>Engineering Applications of Artificial Intelligence, 2026.</em></p>
   </div>
 </div>
 
-<div class="paper-group">
-  <h3>Blood Pressure Analysis</h3>
-  <div class="paper-item">
-    <p><a href="/publication/2022-01-01_gaussian-fitting-bp"><strong>A Gaussian-Fitting-Optimized Algorithm for Blood Pressure Determination</strong></a><br>
-    <b>Jian Liu</b>, Yumin Li, Jianqing Li, and Chengyu Liu.<br>
-    <em>Biomedical Engineering Research, 2022.</em></p>
-  </div>
-</div>
-
-[Full publication list](/publications/) includes other representative collaborative works such as ICML 2026 and Nature Communications 2025.
+[Full publication list](/publications/)
 
 ## 🔗 Resources
 

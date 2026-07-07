@@ -675,17 +675,23 @@
   font-size: 0.86rem;
 }
 
+.about-summary p {
+  margin-bottom: 1rem;
+  font-size: 0.88rem;
+  line-height: 1.58;
+}
+
 .scholar-profile {
-  margin: 0.85rem 0 1.25rem;
+  margin: 0.65rem 0 1.25rem;
 }
 
-.scholar-profile-link {
-  margin-bottom: 0.35rem;
-  font-size: 0.86rem;
+.scholar-profile .scholar-badges {
+  margin-top: 0;
 }
 
-.scholar-profile-link a {
-  font-weight: 600;
+.scholar-profile .scholar-badge {
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .paper-group {
