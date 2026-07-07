@@ -29,17 +29,17 @@ My papers have appeared in venues and journals such as ICML, Nature Communicatio
 
 <details class="simple-details">
   <summary>Earlier news</summary>
-
-- **Nov. 2025**: *XSleepFusion* was published in *Information Fusion*.
-- **Sep. 2025**: Our dual-focus cloud-edge collaborative framework for multitask hemodynamic parameter analysis was published in *IEEE Internet of Things Journal*.
-- **Aug. 2025**: *Transparent artificial intelligence-enabled interpretable and interactive sleep apnea assessment across flexible monitoring scenarios* was published in *Nature Communications*.
-- **Jul. 2025**: I gave an oral presentation at *EMBC 2025* on VAM, a parallel cross-modal hybrid network for vascular age estimation from PPG.
-- **Jun. 2025**: *PULSE*, a personalized physiological signal analysis framework, was published in *Expert Systems with Applications*.
-- **May 2025**: *LEAF-Net* was published in *Expert Systems with Applications*.
-- **2024**: Our paper *[Preventing Troublesome Variability in Clinical Blood Pressure Measurement](https://www.nature.com/articles/s41371-024-00978-3#citeas)* was published in *Journal of Human Hypertension*.
-- **2024**: *[Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub)* was published in *Applied Soft Computing*.
-- **2021**: I attended *Computing in Cardiology 2021* and gave an oral presentation on blood pressure regulation and variability.
-
+  <ul>
+    <li><strong>Nov. 2025</strong>: <em>XSleepFusion</em> was published in <em>Information Fusion</em>.</li>
+    <li><strong>Sep. 2025</strong>: Our dual-focus cloud-edge collaborative framework for multitask hemodynamic parameter analysis was published in <em>IEEE Internet of Things Journal</em>.</li>
+    <li><strong>Aug. 2025</strong>: <em>Transparent artificial intelligence-enabled interpretable and interactive sleep apnea assessment across flexible monitoring scenarios</em> was published in <em>Nature Communications</em>.</li>
+    <li><strong>Jul. 2025</strong>: I gave an oral presentation at <em>EMBC 2025</em> on VAM, a parallel cross-modal hybrid network for vascular age estimation from PPG.</li>
+    <li><strong>Jun. 2025</strong>: <em>PULSE</em>, a personalized physiological signal analysis framework, was published in <em>Expert Systems with Applications</em>.</li>
+    <li><strong>May 2025</strong>: <em>LEAF-Net</em> was published in <em>Expert Systems with Applications</em>.</li>
+    <li><strong>2024</strong>: Our paper <em><a href="https://www.nature.com/articles/s41371-024-00978-3#citeas">Preventing Troublesome Variability in Clinical Blood Pressure Measurement</a></em> was published in <em>Journal of Human Hypertension</em>.</li>
+    <li><strong>2024</strong>: <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S1568494624011645?via%3Dihub">Personalized Blood Pressure Estimation Using Multiview Fusion Information of Wearable Physiological Signals and Transfer Learning</a></em> was published in <em>Applied Soft Computing</em>.</li>
+    <li><strong>2021</strong>: I attended <em>Computing in Cardiology 2021</em> and gave an oral presentation on blood pressure regulation and variability.</li>
+  </ul>
 </details>
 
 ## ⭐ Selected Publications
