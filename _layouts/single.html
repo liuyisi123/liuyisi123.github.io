@@ -45,6 +45,18 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.collection == 'publications' and page.header.teaser %}
+          <figure class="publication-page-teaser">
+            <img src=
+              {% if page.header.teaser contains "://" %}
+                "{{ page.header.teaser }}"
+              {% else %}
+                "{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}"
+              {% endif %}
+              alt="">
+          </figure>
+        {% endif %}
+
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl %}

@@ -579,30 +579,29 @@
 }
 
 .awards-list {
-  display: grid;
-  gap: 0.45rem;
-  margin: 0.85rem 0 1.1rem;
+  margin: 0.6rem 0 1.25rem;
+  padding: 0.55rem 0 0 1.25rem;
+  border-top: 1px solid #e7ecef;
+  color: #3f494f;
+  font-size: 0.86rem;
+  line-height: 1.55;
 }
 
-.awards-list div {
-  display: grid;
-  grid-template-columns: 7.6rem 1fr;
-  gap: 0.75rem;
-  align-items: start;
-  padding: 0.55rem 0.7rem;
-  border-left: 3px solid #c7e4df;
-  border-bottom: 1px solid #e5ece9;
-  border-radius: 6px;
-  background: #ffffff;
+.awards-list li {
+  margin: 0.34rem 0;
+  padding-left: 0.1rem;
 }
 
 .awards-list time {
-  color: #126d72;
-  font-weight: 700;
+  margin-right: 0.25rem;
+  color: #4a5155;
+  font-style: italic;
+  white-space: nowrap;
 }
 
-.awards-list p {
-  margin: 0;
+.awards-list li::marker {
+  color: #454c52;
+  font-size: 0.82rem;
 }
 
 .publication-year {
@@ -685,6 +684,35 @@
   transition: border-color 150ms ease, box-shadow 150ms ease, transform 150ms ease;
 }
 
+.publication-year-section .archive__item {
+  display: grid;
+  grid-template-columns: 10.5rem minmax(0, 1fr);
+  gap: 0.85rem;
+  align-items: start;
+}
+
+.publication-list-teaser {
+  grid-row: 1 / span 4;
+  width: 100%;
+}
+
+.publication-list-teaser a {
+  display: block;
+  overflow: hidden;
+  aspect-ratio: 16 / 10;
+  border: 1px solid #d7e2e5;
+  border-radius: 6px;
+  background: #ffffff;
+}
+
+.publication-list-teaser img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #ffffff;
+}
+
 .publication-year-section .list__item:hover {
   transform: translateY(-1px);
   border-left-color: #2b7bbb;
@@ -692,6 +720,7 @@
 }
 
 .publication-year-section .archive__item-title {
+  grid-column: 2;
   margin: 0 0 0.25rem;
   font-size: 0.9rem;
   line-height: 1.38;
@@ -707,6 +736,7 @@
 }
 
 .publication-meta {
+  grid-column: 2;
   margin: 0 0 0.45rem;
   color: #5d6864;
   font-size: 0.76rem;
@@ -715,6 +745,7 @@
 
 .publication-year-section .archive__item-excerpt,
 .publication-year-section .archive__item p:not(.publication-meta) {
+  grid-column: 2;
   margin: 0.18rem 0 0;
   color: #3d4a4f;
   font-size: 0.76rem;
@@ -724,6 +755,35 @@
 .publication-year-section .archive__item p a {
   color: #1c4f86;
   font-weight: 650;
+}
+
+.page__content > p > img,
+.page__content > p img[src*="/images/"],
+.page__content > img[src*="/images/"] {
+  display: block;
+  width: 100%;
+  max-height: 26rem;
+  object-fit: contain;
+  margin: 0.65rem 0 1rem;
+  padding: 0.35rem;
+  border: 1px solid #dbe5e8;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.publication-page-teaser {
+  margin: 0.35rem 0 1.05rem;
+}
+
+.publication-page-teaser img {
+  display: block;
+  width: 100%;
+  max-height: 24rem;
+  object-fit: contain;
+  padding: 0.4rem;
+  border: 1px solid #dbe5e8;
+  border-radius: 8px;
+  background: #ffffff;
 }
 
 .page__content > h1:first-child {
@@ -1052,12 +1112,23 @@
     grid-template-columns: 1fr;
   }
 
+  .publication-year-section .archive__item {
+    grid-template-columns: 1fr;
+  }
+
+  .publication-list-teaser,
+  .publication-year-section .archive__item-title,
+  .publication-meta,
+  .publication-year-section .archive__item-excerpt,
+  .publication-year-section .archive__item p:not(.publication-meta) {
+    grid-column: 1;
+  }
+
   .homepage-nav {
     position: static;
   }
 
   .news-timeline div,
-  .awards-list div,
   .education-timeline div {
     grid-template-columns: 1fr;
     gap: 0.2rem;

@@ -1,5 +1,7 @@
 ---
 title: "[A10] A Gaussian-Fitting-Optimized Algorithm for Blood Pressure Determination"
+header:
+  teaser: PMEA.jpg
 collection: articles
 permalink: /publication/2022-01-01_gaussian-fitting-bp
 excerpt: "This Chinese-language work studies a Gaussian-fitting-optimized algorithm for blood pressure determination."

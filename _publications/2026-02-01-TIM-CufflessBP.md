@@ -1,5 +1,7 @@
 ---
 title: "[20] Exploring an Adaptive Framework for Accurate Personalized Cuff-Less Blood Pressure Tracking"
+header:
+  teaser: TIM.jpg
 collection: articles
 permalink: /publication/2026-02-01_cuffless-bp-tracking
 excerpt: "This work explores an adaptive framework for accurate personalized cuff-less blood pressure tracking."

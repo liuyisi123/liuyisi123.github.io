@@ -1,5 +1,7 @@
 ---
 title: "[15] PULSE: A personalized physiological signal analysis framework via unsupervised domain adaptation and self-adaptive learning"
+header:
+  teaser: FACT-Net.png
 collection: articles
 permalink: /publication/2025-03-01_pulse
 excerpt: "PULSE is a personalized physiological signal analysis framework based on unsupervised domain adaptation and self-adaptive learning."

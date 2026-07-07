@@ -1,5 +1,7 @@
 ---
 title: "[17] A Dual-Focus Cloud-Edge Collaborative Framework in Multitask Hemodynamic Parameter Cross-Scale Analysis: The Equilibrium of Clinical Performance and Efficiency"
+header:
+  teaser: JIOT.jpg
 collection: articles
 permalink: /publication/2025-06-01_dual-focus
 excerpt: "This work presents a cloud-edge collaborative framework for multi-task hemodynamic parameter analysis, balancing clinical performance and computational efficiency."

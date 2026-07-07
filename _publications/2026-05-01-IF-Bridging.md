@@ -1,5 +1,7 @@
 ---
 title: "[21] Bridging the Gap Between Computer Vision and Bioelectrical Signal Analysis"
+header:
+  teaser: FACT-Net.png
 collection: articles
 permalink: /publication/2026-05-01_bridging
 excerpt: "This work studies connections between computer vision methods and bioelectrical signal analysis."

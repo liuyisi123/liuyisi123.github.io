@@ -1,5 +1,7 @@
 ---
 title: "[A2] Edge-Intelligent Cross-Platform Architecture for Knowledge-Intensive Arterial Blood Pressure Inference in Distributed Healthcare IoT Networks"
+header:
+  teaser: Fig.2.jpg
 collection: articles
 permalink: /publication/2026-05-01_edge-intelligent-abp
 excerpt: "This work studies an edge-intelligent cross-platform architecture for arterial blood pressure inference in distributed healthcare IoT networks."

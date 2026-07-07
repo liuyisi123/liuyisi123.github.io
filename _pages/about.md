@@ -116,19 +116,19 @@ To date, I have published research papers as first author, co-first author, or c
   </ul>
 </details>
 
-## 🏅 Awards & Honors
+## 🏅 Honors and Awards
 
-<div class="awards-list">
-  <div><time>2025</time><p>Fudan University Titled Scholarship, sole recipient in school.</p></div>
-  <div><time>2025 / 2019</time><p>Outstanding Graduate, Fudan University / Hebei Province / Yanshan University.</p></div>
-  <div><time>2024-2025</time><p>Academic Scholarship, 1st/2nd Class, Fudan University.</p></div>
-  <div><time>2024</time><p>3rd Prize, China Postgraduate Artificial Intelligence Innovation Competition.</p></div>
-  <div><time>2021 / 2023</time><p>1st/2nd Prize, National University Student BME Innovation Design Competition.</p></div>
-  <div><time>2024 / 2019</time><p>Outstanding Youth League Member, Fudan University / Yanshan University.</p></div>
-  <div><time>2022</time><p>Outstanding Communist Party Member, Southeast University.</p></div>
-  <div><time>2019-2021</time><p>2nd Class Academic Scholarship, Southeast University, consecutive years.</p></div>
-  <div><time>2016-2018</time><p>Outstanding Student / Class Leader, Yanshan University.</p></div>
-</div>
+<ul class="awards-list">
+  <li><time>2025</time> Fudan University Titled Scholarship, sole recipient in school.</li>
+  <li><time>2025 / 2019</time> Outstanding Graduate, Fudan University / Hebei Province / Yanshan University.</li>
+  <li><time>2024-2025</time> Academic Scholarship, 1st/2nd Class, Fudan University.</li>
+  <li><time>2024</time> Third Prize, China Postgraduate Artificial Intelligence Innovation Competition.</li>
+  <li><time>2021 / 2023</time> First/Second Prize, National University Student Biomedical Engineering Innovation Design Competition.</li>
+  <li><time>2024 / 2019</time> Outstanding Youth League Member, Fudan University / Yanshan University.</li>
+  <li><time>2022</time> Outstanding Communist Party Member, Southeast University.</li>
+  <li><time>2019-2021</time> Second Class Academic Scholarship, Southeast University, consecutive years.</li>
+  <li><time>2016-2018</time> Outstanding Student / Class Leader, Yanshan University.</li>
+</ul>
 
 ## 📘 Selected Publications
 

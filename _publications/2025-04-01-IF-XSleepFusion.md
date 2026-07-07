@@ -1,5 +1,7 @@
 ---
 title: "[18] XSleepFusion: A Dual-stage Information Bottleneck Fusion Framework for Interpretable Multimodal Sleep Analysis"
+header:
+  teaser: NN-1.jpg
 collection: articles
 permalink: /publication/2025-04-01_xsleepfusion
 excerpt: "XSleepFusion is a dual-stage information bottleneck fusion framework for interpretable multimodal sleep analysis."

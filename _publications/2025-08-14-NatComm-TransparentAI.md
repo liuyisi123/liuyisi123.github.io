@@ -1,5 +1,7 @@
 ---
 title: "[16] Transparent Artificial Intelligence-enabled Interpretable and Interactive Sleep Apnea Assessment across Flexible Monitoring Scenarios"
+header:
+  teaser: NN-1.jpg
 collection: articles
 permalink: /publication/2025-08-14_transparent-ai-sleep
 excerpt: "This work presents transparent AI methods for interpretable and interactive sleep apnea assessment across flexible monitoring scenarios."

@@ -1,5 +1,7 @@
 ---
 title: "[19] Unleashing the Power of Pretrained Transformer for Dense Prediction in Physiological Signals"
+header:
+  teaser: JBHI-1.jpg
 collection: articles
 permalink: /publication/2026-01-01_pretrained-transformer-physiology
 excerpt: "This work studies pretrained transformers for dense prediction in physiological signals."
